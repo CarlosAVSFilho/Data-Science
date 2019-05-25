@@ -1,0 +1,1062 @@
+[8:25 AM, 3/1/2019] +55 11 98256-2544: bom dia
+Pode me dar uma luz,
+
+como eu sei "Get the below python libraries" essa pasta?
+[8:27 AM, 3/1/2019] Carlos: N entendi sua duvida, Eduardo
+[8:40 AM, 3/1/2019] +55 41 9793-9726: Acho q ele quer saber onde está a pasta lib do python
+[8:41 AM, 3/1/2019] +55 41 9793-9726: Vc deve rodar os comandos pip no terminal ou no jupyter para instalar os componentes
+[8:42 AM, 3/1/2019] +55 11 98256-2544: tipo, ele fala pra rodar na pasta das libs
+como descubro?
+
+ou tenho que rodar isso no terminao do jupyter?
+
+desculpe as perguntas basicas, estou comecando a lidar com python a pouco tempo
+[8:45 AM, 3/1/2019] Carlos: Acho que é isso que o Erick falou mesmo. Vc precisa adicionar aquelas bibliotecas no seu diretorio de projeto ja que elas nao devem ser nativas do python
+[8:48 AM, 3/1/2019] +55 41 9793-9726: 👍🏻
+[8:48 AM, 3/1/2019] +55 41 9793-9726: Faz no terminal
+[8:48 AM, 3/1/2019] Carlos: “Ele fala pra rodar na pasta das libs”
+Ele nao fala isso. Ele fala pra você executar o comando pra pegar as bibliotecas SpeechRecognition e PyAudio
+[8:48 AM, 3/1/2019] +55 41 9793-9726: Vc usa qual sistema operacional?
+[8:50 AM, 3/1/2019] +55 11 98256-2544: windows
+[8:51 AM, 3/1/2019] +55 11 98256-2544: entendi que tinha que instalar as libs em uma pasta X pra ficar disponivel pro sistema opecacional
+
+valeu, qdo chegar em casa faco os testes
+[8:51 AM, 3/1/2019] +55 41 9793-9726: Vc instalou o python 3?
+[8:52 AM, 3/1/2019] Carlos: Ah sim, mas é isso aí mesmo!
+[8:53 AM, 3/1/2019] +55 11 98256-2544: isso tenho, ja faço algumas coisas
+[8:53 AM, 3/1/2019] +55 11 98256-2544: valeuuu pela ajuda
+[9:42 AM, 3/1/2019] +55 21 99464-1431: Python 🐍
+[10:46 AM, 3/1/2019] +55 11 94102-3141: Hahahahahahaha
+[10:51 AM, 3/1/2019] +55 62 9146-1929: Bora ver o que na Inteligência Artificial chamamos de Agentes Inteligentes e seus vários tipos. Hoje às 19h no Canal Sandeco. Nível: Iniciante - Live no Youtube.🔥
+[10:52 AM, 3/1/2019] +55 62 9146-1929: Confira o Tweet de @sandeco: https://twitter.com/sandeco/status/1101456458317815808?s=08
+[10:53 AM, 3/1/2019] +55 21 99464-1431: 👏🏽👏🏽👏🏽👏🏽👏🏽
+[11:02 AM, 3/1/2019] +55 75 9128-4207: Masssa...
+[11:39 AM, 3/1/2019] +55 21 99811-0925: Esse profissional é um unicórnio
+[11:40 AM, 3/1/2019] +55 21 99811-0925: N existe ngm que domine isso tudo kkk
+[11:46 AM, 3/1/2019] +55 11 98256-2544: ainda mais magro assim, a primeira coisa que a pessoa fica, é gordo rs
+[11:47 AM, 3/1/2019] +55 79 9979-3132: Só falta pasaar roupa, arrumar a casa, preparar a comida e aí vai ser um unicórnio mesmo
+[11:52 AM, 3/1/2019] +55 21 99464-1431: E no final o salario R$ 5.000
+[12:18 PM, 3/1/2019] +55 12 98124-3645: Foi mal
+[12:18 PM, 3/1/2019] +55 12 98124-3645: Liguei sem querer
+[1:03 PM, 3/1/2019] +55 21 99464-1431: http://www.simi.org.br/noticia/Startup-brasileira-cria-banco-de-dados-e-desafia-as-gigantes-do-setor
+[1:06 PM, 3/1/2019] +55 11 98875-2128: 👏🏻👏🏻👏🏻👍🏻👍🏻
+[1:06 PM, 3/1/2019] +55 11 98875-2128: 🇧🇷🇧🇷🇧🇷
+[1:12 PM, 3/1/2019] +55 62 8130-6114: Kk
+[1:22 PM, 3/1/2019] +55 21 97640-8231: 😳👏🏼👏🏼
+[1:46 PM, 3/1/2019] +55 21 99464-1431: Genial
+[1:49 PM, 3/1/2019] +55 79 9979-3132: Haha
+[1:51 PM, 3/1/2019] +55 21 97640-8231: 😅
+[2:16 PM, 3/1/2019] Carlos: Pessoal, quando a gente usa bibliotecas como pandas no PyCharm, como é a visualização dos datasets??
+[2:17 PM, 3/1/2019] Carlos: Eles aparecem em uma janela nova?
+[2:30 PM, 3/1/2019] +55 17 98123-9977: Show de bola!
+[2:32 PM, 3/1/2019] +55 79 9979-3132: É printado como uma tabela mesmo
+[2:32 PM, 3/1/2019] +55 79 9979-3132: Não
+[2:35 PM, 3/1/2019] +55 65 9272-2472: Nossa! 👏🏼👏🏼👏🏼
+[3:10 PM, 3/1/2019] Carlos: Valeu!!
+[5:59 PM, 3/1/2019] +55 11 95081-8325: Quem dera se fosse só isso
+[6:11 PM, 3/1/2019] +55 98 8137-2752: https://mobile.valor.com.br/carreira/6143741/nas-empresas-sobram-dados-e-faltam-talentos-para-traduzi-los
+[7:07 PM, 3/1/2019] +55 62 9146-1929: https://youtu.be/PuJ-HpPWyl0
+[7:08 PM, 3/1/2019] +55 62 9146-1929: Link da Live
+[8:14 AM, 3/2/2019] +55 11 94102-3141: Noooooooooooooooossaaa
+[8:59 AM, 3/2/2019] +55 75 9128-4207: Bom dia galera... Alguém tem algum case de Big data/ DA para o setor de produção industrial, gostaria de tirar umas dúvidas
+[10:28 AM, 3/2/2019] +55 11 97114-9356: Algo desse tipo te ajuda? https://www.kaggle.com/rtatman/us-candy-production-by-month
+[11:12 AM, 3/2/2019] +55 75 9128-4207: Agradeço pela mensagem... Então +-  isso ai... nesta base apresenta a produção de doces. Mais desejo conhece um aplicação mais prática desenvolvida, de quem já implementou algo em alguma industrial... Mais esta base de dados vai servi para meus estudos rsrsrsr
+[11:13 AM, 3/2/2019] +55 11 97114-9356: 👍
+[1:35 PM, 3/2/2019] +55 62 8168-5163: Estou sempre afirmando que a Inteligência Artificial é para qualquer um
+[1:35 PM, 3/2/2019] +55 62 8168-5163: Até meu banner na Campus Party Brasil tinha essa afirmação
+[1:36 PM, 3/2/2019] +55 62 8168-5163: Até lancei um vídeo ano passado sobre esse tema
+[1:36 PM, 3/2/2019] +55 62 8168-5163: https://youtu.be/ag99eF1ez7E
+[1:36 PM, 3/2/2019] +55 62 8168-5163: Aí vem o Cara que vc mais admira na área de Inteligência Artificial e lança uma série inteira no Coursera exatamente com esse tema
+[1:36 PM, 3/2/2019] +55 62 8168-5163: Quem é o cara?
+[1:36 PM, 3/2/2019] +55 62 8168-5163: Meu mentor Andrew NG
+[1:36 PM, 3/2/2019] +55 62 8168-5163: Carambaaaaaa.... que showww mano.
+[1:36 PM, 3/2/2019] +55 62 8168-5163: https://www.coursera.org/learn/ai-for-everyone
+[1:37 PM, 3/2/2019] +55 62 8168-5163: Puts... Vcs não tem ideia da minha alegria em pensar tão alinhado com esse cara.
+[1:39 PM, 3/2/2019] +55 79 9979-3132: 👏🏼👏🏼
+[1:43 PM, 3/2/2019] +55 21 99464-1431: 👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽
+[1:44 PM, 3/2/2019] +55 62 8168-5163: E eu marquei uma palestra exatamente com esse tema:
+"Inteligência Artificial é para qualquer um"
+
+E quero falar mais no canal sobre isso... pq eu realmente  acredito nesse mote
+[9:46 PM, 3/2/2019] +55 31 8699-7488: Olá eu já fui convidado a participar  deste grupo e saí, agora encontrei pelo vídeo da sandeco.
+[9:46 PM, 3/2/2019] +55 31 8699-7488: Quero aprender TI
+[9:47 PM, 3/2/2019] +55 31 8699-7488: Tinham me oferecido um curso pela internet a um valor simbólico.
+[9:48 PM, 3/2/2019] +55 31 8699-7488: Disseram que tem os conteudos necessarios para aprender sobre programação.
+[9:49 PM, 3/2/2019] +55 31 8699-7488: Eu perdi na época,  mas agora estou interessado.
+[9:49 PM, 3/2/2019] +55 31 8699-7488: Estou no celilar da minha mãe.
+[9:49 PM, 3/2/2019] +55 31 8699-7488: E com uma grande idéia,  com medo de compartilhar.
+[9:50 PM, 3/2/2019] +55 31 8699-7488: Pensando em aprender programação para desenvolver um programa com inteligência artificial.
+[9:51 PM, 3/2/2019] +55 31 8699-7488: Meu nome é PedroAureliano Silva.
+[9:52 PM, 3/2/2019] +55 31 8699-7488: +55 62 8605 8772 tem como me ajudar?
+[9:53 PM, 3/2/2019] +55 32 9815-6420: Carnaval só depois que essa bolinha apagar
+[9:54 PM, 3/2/2019] +55 31 8699-7488: Eu estava nesse grupo CANAL SANDECO 2 em meados de novembro.
+[9:55 PM, 3/2/2019] +55 24 98114-4683: quantos anos você tem, Pedro?
+[9:56 PM, 3/2/2019] +55 31 8699-7488: 37
+[9:57 PM, 3/2/2019] +55 31 8699-7488: Estamos com uma boa ideia, precisando do curao de programação.
+[9:59 PM, 3/2/2019] +55 31 8699-7488: Não quero vender a idéia quero vender o programa utilizando a inteligência artificial.
+[10:00 PM, 3/2/2019] Carlos: 🤔🤔🤔🤔
+[10:01 PM, 3/2/2019] +55 31 8699-7488: Interessado em um curso que me foi oferecido quando fazia parte so canal.
+[10:01 PM, 3/2/2019] +55 31 8699-7488: So não lembro do nome do professor.
+[10:01 PM, 3/2/2019] +55 31 8699-7488: Sei que ele era um professor.
+[10:02 PM, 3/2/2019] +55 31 8699-7488: Professor de uma universidade federal.
+[10:02 PM, 3/2/2019] +55 31 8699-7488: Conversei pouco com ele.
+[10:15 PM, 3/2/2019] +55 75 9128-4207: Assim fica complicado... São tantos curso que a galera coloca aqui...
+[10:16 PM, 3/2/2019] +55 31 8699-7488: Vish...
+[10:17 PM, 3/2/2019] +55 31 8699-7488: Quando eu estiver com o meu celular eu entro aqui novamente.
+[10:17 PM, 3/2/2019] +55 31 8699-7488: Obrigado!
+[10:18 PM, 3/2/2019] +55 75 9128-4207: Puts, velho kkkkkkkk
+[10:18 PM, 3/2/2019] +55 17 98123-9977: 🤷🏻‍♂
+[10:18 PM, 3/2/2019] +55 75 9128-4207: Esse ai veio somente pelo curso... De sei lá o que
+[10:19 PM, 3/2/2019] +55 17 98123-9977: Complicado!
+[10:19 PM, 3/2/2019] +55 17 98123-9977: Hehe
+[10:19 PM, 3/2/2019] +55 75 9128-4207: Agora que eu ia dizer a ele que idéia e só o começo.... Kkkkkkkkk
+[10:20 PM, 3/2/2019] +55 17 98123-9977: 37 anos, domingão de carnaval, celular da mãe! E aninamdo para programar!
+[10:21 PM, 3/2/2019] +55 17 98123-9977: Sabado* oups rsrs
+[10:22 PM, 3/2/2019] +55 75 9128-4207: Que ele precisa ser rápido kkkkkkk, tem um bom cara de marketing... Mais uns bons cara de programação. Para no meio do caminho ele constatar que  o que vai importar e o que o cliente quer
+[10:22 PM, 3/2/2019] +55 75 9128-4207: 🤣🤣🤣🤣🤣🤣🤣🤣
+[10:22 PM, 3/2/2019] +55 75 9128-4207: Acho que ele irá ficar desanimado
+[10:27 PM, 3/2/2019] +55 17 98123-9977: Em meados de outubro do ano passado, participei de uma palestra com o Eduardo Henrique ( dono da movile) ele dizia que a empresa dele quase fechou porque eles levavam 6 meses para desenvolver um produto e lançar, enquanto os universitários no vale do silicio lançavam ideias tão boas quanto em semanas... a tecnologia esta se tornando uma profissão desafiadora para empreendedores que querem lançar um App ou um software no mercado
+[10:33 PM, 3/2/2019] +55 75 9128-4207: Verdade isso aí... Auxílio alguns alunos nesta jornada de empreendedorismo e sempre cito alguns exemplos... Mais percebo alguns são tão deslumbrados com a idéia não consulta o cliente... Ou então "a idéia é minha e não compartilho com ninguém"...
+[10:34 PM, 3/2/2019] +55 75 9128-4207: Neste pensamento aí... Só vai demorar mais, e mais e mais para tirar do papel
+[10:34 PM, 3/2/2019] +55 75 9128-4207: So vai para frente quem compartilha e acha una bons parceiros para caminhar junto
+[10:36 PM, 3/2/2019] +55 17 98123-9977: Exatamente! Estamos vivendo uma epoca da tecnologia em fluxo ou fluido, não é mais algo que você pega para si. Hoje em dia a informação é como uma onda, você a transforma, mas ela continua seguindo um fluxo
+[10:36 PM, 3/2/2019] +55 17 98123-9977: Por isso, ferramentas como GitHub são tão populares
+[10:37 PM, 3/2/2019] +55 17 98123-9977: Podemos olhar para as redes sociais também, para se manter vivo nelas, você precisa compartilhar
+[10:39 PM, 3/2/2019] +55 75 9128-4207: 👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽
+[10:41 PM, 3/2/2019] +55 17 98123-9977: Assim nasceu o Linux e também a GPL, quando você permite que alguem modifique seu código, a chance dele se tornar melhor é enorme
+[10:58 PM, 3/2/2019] +55 75 9128-4207: Verdade
+[10:58 PM, 3/2/2019] +55 75 9128-4207: E os concorrentes brotam do chão...
+[10:59 PM, 3/2/2019] +55 75 9128-4207: Ver o exemplo do Uber e seus "derivados"
+[12:25 AM, 3/3/2019] +55 32 9815-6420: 😂
+[9:54 AM, 3/3/2019] +55 11 98603-3145: A idéia só é importante quando se sabe fazer.
+[2:23 PM, 3/3/2019] +55 32 9815-6420: Vale mais uma idéia implementada que dez boas ideias
+[2:39 PM, 3/3/2019] +55 21 99464-1431: 😂😂😂
+[3:23 PM, 3/3/2019] +55 75 9128-4207: 👏🏽👏🏽👏🏽👏🏽👏🏽
+[6:04 PM, 3/3/2019] +55 32 9815-6420: carnaval ta rendendo, por enquanto estou na 4 posicao da competicao da DSA no Kaggle 😂
+[6:27 PM, 3/3/2019] +55 79 9979-3132: Oloko
+[6:27 PM, 3/3/2019] +55 79 9979-3132: Qual competição?
+[6:52 PM, 3/3/2019] +55 32 9815-6420: É uma q a DSA lançou para prever consumo de energia de prédios
+[6:52 PM, 3/3/2019] +55 32 9815-6420: Com um dataset de Nova York
+[6:54 PM, 3/3/2019] +55 79 9979-3132: massa
+[6:54 PM, 3/3/2019] +55 79 9979-3132: e ai? qual o resultado? kk
+[6:55 PM, 3/3/2019] +55 79 9979-3132: * o que que afeta
+[7:09 PM, 3/3/2019] +55 75 9128-4207: Massaa
+[7:12 PM, 3/3/2019] +55 32 9815-6420: 🙏
+[8:11 AM, 3/6/2019] +55 14 98151-0103: SEGUEM ALGUNS CURSOS ONLINE GRATUITOS:
+
+ A maioria com certificado de conclusão. 
+
+Insper; https://lnkd.in/dMEYVCd
+
+Fundação estudar: https://lnkd.in/deWd4wD
+
+Prime: https://lnkd.in/dNmQPmd
+
+Iped; https://lnkd.in/dSmv3Yd
+
+FGV: https://lnkd.in/dwKhzc6
+
+USP: https://veduca.org
+
+Centro Paula Souza: http://mooc.cps.sp.gov.br
+
+Senai: https://lnkd.in/dPgn26k
+
+Senac: https://lnkd.in/dzpmy7X
+
+Fundação Bradesco: https://www.ev.org.br
+
+Nube: https://lnkd.in/dQp2Gc5
+
+Senat: https://lnkd.in/eUgA8Kz
+
+Coursera: https://www.coursera.org
+
+ SENAI https://lnkd.in/ekWYSF7 
+
+CURSOS ONLINE https://lnkd.in/eXG88Ei 
+
+FGV https://lnkd.in/etHneGn 
+
+CURSOS GRATIS ONLINE https://lnkd.in/eWnviCF 
+
+UNIEDUCAR https://lnkd.in/eUpxBww 
+
+PRIME CURSOS https://lnkd.in/eTsvHaN 
+
+IPED https://lnkd.in/eks6ZCF 
+
+SISTEMA FINDES - SENAI http://eadsenaies.com.br/ 
+
+LEARN CAFE https://lnkd.in/e9g4e2m 
+
+VEDUCA https://lnkd.in/ecRFpVF 
+
+WR EDUCACIONAL https://lnkd.in/et6wKwh 
+
+SEBRAE https://lnkd.in/eGTxicN 
+
+SENAC https://lnkd.in/e7TUPej 
+
+CURSOS ONLINE SP https://lnkd.in/eXPygRS 
+
+CURSO DE INGLÊS GRATUITO https://lnkd.in/e9YrC-D 
+
+COURSERA ( mais renomadas universidades do Brasil)
+ https://pt.coursera.org 
+
+FUNDAÇÃO BRADESCO https://www.ev.org.br 
+
+
+BOA SORTE
+[8:52 AM, 3/6/2019] +55 94 9195-2206: SEGUEM ALGUNS CURSOS ONLINE GRATUITOS:
+
+ A maioria com certificado de conclusão. 
+
+Insper; https://lnkd.in/dMEYVCd
+
+Fundação estudar: https://lnkd.in/deWd4wD
+
+Prime: https://lnkd.in/dNmQPmd
+
+Iped; https://lnkd.in/dSmv3Yd
+
+FGV: https://lnkd.in/dwKhzc6
+
+USP: https://veduca.org
+
+Centro Paula Souza: http://mooc.cps.sp.gov.br
+
+Senai: https://lnkd.in/dPgn26k
+
+Senac: https://lnkd.in/dzpmy7X
+
+Fundação Bradesco: https://www.ev.org.br
+
+Nube: https://lnkd.in/dQp2Gc5
+
+Senat: https://lnkd.in/eUgA8Kz
+
+Coursera: https://www.coursera.org
+
+ SENAI https://lnkd.in/ekWYSF7 
+
+CURSOS ONLINE https://lnkd.in/eXG88Ei 
+
+FGV https://lnkd.in/etHneGn 
+
+CURSOS GRATIS ONLINE https://lnkd.in/eWnviCF 
+
+UNIEDUCAR https://lnkd.in/eUpxBww 
+
+PRIME CURSOS https://lnkd.in/eTsvHaN 
+
+IPED https://lnkd.in/eks6ZCF 
+
+SISTEMA FINDES - SENAI http://eadsenaies.com.br/ 
+
+LEARN CAFE https://lnkd.in/e9g4e2m 
+
+VEDUCA https://lnkd.in/ecRFpVF 
+
+WR EDUCACIONAL https://lnkd.in/et6wKwh 
+
+SEBRAE https://lnkd.in/eGTxicN 
+
+SENAC https://lnkd.in/e7TUPej 
+
+CURSOS ONLINE SP https://lnkd.in/eXPygRS 
+
+CURSO DE INGLÊS GRATUITO https://lnkd.in/e9YrC-D 
+
+COURSERA ( mais renomadas universidades do Brasil)
+ https://pt.coursera.org 
+
+FUNDAÇÃO BRADESCO https://www.ev.org.br 
+
+Tim Cursos 
+https://cursos.timtec.com.br/courses
+
+BOA SORTE
+[9:02 AM, 3/6/2019] +55 62 9146-1929: 👏👏👏👏
+[12:19 PM, 3/6/2019] +55 11 95081-8325: muito obrigado!
+[1:12 PM, 3/6/2019] +55 21 97640-8231: https://www.infomoney.com.br/negocios/inovacao/noticia/7954187/brasileiro-cria-robos-que-fazem-videos-e-publicam-no-youtube-sozinhos
+[1:25 PM, 3/6/2019] +55 75 9128-4207: Show
+[1:27 PM, 3/6/2019] +55 55 8127-8637: Futuro engenheiro da Google. 😉👍
+[1:28 PM, 3/6/2019] +55 13 99765-0127: Bem louco, da pra ver que para fazer algo mais sofisticado o cara tem que manjar de programação
+[1:29 PM, 3/6/2019] +55 13 99765-0127: O cara usou, Nodejs, consumiu api do Google e etc.
+[1:30 PM, 3/6/2019] +55 13 99765-0127: Sei que o canal defende que é pra qualquer um mas depende até onde quer chegar
+[1:30 PM, 3/6/2019] +55 21 97640-8231: Ele é desenvolvedor na pagar.me, ficou surpreso com a publicação está a pedindo a colaboração de desenvolvedores pra ficar nos topviews da Infomoney
+[1:32 PM, 3/6/2019] +55 13 99765-0127: Já compartilhei com a geral, galera do fretado, antigo trampo, família e etc
+[1:32 PM, 3/6/2019] +55 55 8127-8637: Mesmo assim, ainda está mais simples de desenvolver soluções mais robustas. Tem muita ferramenta de suporte.
+
+Demanda tempo e bastante estudo igual, mas o Watson e Google, facilitam muito o caminho.
+[2:15 PM, 3/6/2019] +55 71 8888-0436: Campus party Goiânia vai rolar?
+[7:18 PM, 3/6/2019] +55 81 9508-6045: Boa noite pessoal, to com uma dúvida besta que estranhamente não consigo encontrar. To procurando um cronometro para ser operado em dois computadores, distantes 100m entre si e que ativassem ao mesmo tempo. Simplesmente não encontro, se alguém já teve essa demanda e puder me ajudar ficaria mt grato 🙏🏼
+[7:27 PM, 3/6/2019] +55 62 8168-5163: https://www.youtube.com/watch?v=bDZ2q6OktQI
+[8:06 PM, 3/6/2019] +55 62 8168-5163: Moleque é bom. Já sou inscrito faz tempo. 
+👏👏👏👏👏
+[9:52 PM, 3/6/2019] +55 94 9195-2206: /rt
+Estou na expectativa
+[9:57 PM, 3/6/2019] +55 75 9128-4207: Olá galera, quem faz curso aqui na DSA ?
+[9:57 PM, 3/6/2019] +55 12 98124-3645: Estou fazendo
+[10:38 PM, 3/6/2019] +55 75 9128-4207: Pv
+[12:17 AM, 3/7/2019] +55 55 8127-8637: Boa noite pessoal.... 🙋🏻‍♂
+[12:18 AM, 3/7/2019] +55 55 8127-8637: Em relação a custo zero benefícios, para soluções ML: Google ou Watson ? 🤔🤔🤔
+[12:18 AM, 3/7/2019] +55 55 8127-8637: O volume de dados a analisar não é grande. Fica na casa dos megabytes
+[8:37 AM, 3/7/2019] +55 62 8168-5163: Ainda em negociação. Amanhã os possiveis patrocinadores vão se reunir na casa da Indústria. É cruzar os dedos 🤞
+[8:39 AM, 3/7/2019] +55 81 9689-4297: @Sandeco se quiser...ja tem empresa pra fazer HACKATHON lá !
+[8:40 AM, 3/7/2019] +55 62 8168-5163: Show cara... bom demais
+[8:45 AM, 3/7/2019] +55 62 8168-5163: Ontem teve o TFdevSummit.
+Foi lançado o tensorflow 2.0
+[8:45 AM, 3/7/2019] +55 62 8168-5163: Olha como ficou o código para rodar um modelo em múltiplas GPU's
+[8:46 AM, 3/7/2019] +55 74 9964-1515: Maravilha!!!
+[8:46 AM, 3/7/2019] +55 74 9964-1515: Bom dia!!!
+[8:46 AM, 3/7/2019] +55 74 9964-1515: Estarei na área!!!
+[8:46 AM, 3/7/2019] +55 74 9964-1515: 😂👍🏻
+[8:46 AM, 3/7/2019] +55 74 9964-1515: Conte conosco
+[8:48 AM, 3/7/2019] +55 62 8168-5163: Agora depende dele$$$
+[8:48 AM, 3/7/2019] +55 62 8168-5163: 😄😄😄😄😄
+[9:03 AM, 3/7/2019] +55 74 9964-1515: 😂 Levarei os estudantes.
+[9:22 AM, 3/7/2019] +55 62 8168-5163: Show de bola
+[9:30 AM, 3/7/2019] +55 94 9195-2206: Tem duas kkk
+[9:31 AM, 3/7/2019] +55 11 98155-7678: https://www.infomoney.com.br/negocios/inovacao/noticia/7954187/brasileiro-cria-robos-que-fazem-videos-e-publicam-no-youtube-sozinhos
+[9:43 AM, 3/7/2019] +55 14 98151-0103: Ok!
+[10:09 AM, 3/7/2019] +55 79 9979-3132: Tem alguma maneira de multiplicar essas duas colunas?
+[10:09 AM, 3/7/2019] +55 79 9979-3132: Multiplicar uma com a outra
+[10:10 AM, 3/7/2019] +55 79 9979-3132: *features
+[10:20 AM, 3/7/2019] +55 32 9815-6420: você quer multiplicar train["item visibility"] por dummies_train["Grocery Story"] ?
+[10:22 AM, 3/7/2019] +55 79 9979-3132: sim
+[10:22 AM, 3/7/2019] +55 79 9979-3132: se possivel
+[10:23 AM, 3/7/2019] Carlos: train["item visibility"] * dummies_train["Grocery Story"] não resolve?
+[10:23 AM, 3/7/2019] Carlos: Elas tem a mesma dimensão?
+[10:24 AM, 3/7/2019] +55 79 9979-3132: Ah sim
+[10:24 AM, 3/7/2019] +55 79 9979-3132: Não tinha pensado nisso
+[3:59 PM, 3/7/2019] +55 32 9815-6420: pessoal, boa tarde
+[4:00 PM, 3/7/2019] +55 32 9815-6420: precisa de uma força
+[4:00 PM, 3/7/2019] +55 32 9815-6420: perai kkkk
+[4:10 PM, 3/7/2019] +55 32 9815-6420: tenho um dataset do pandas desse modo
+[4:11 PM, 3/7/2019] +55 32 9815-6420: quero criar uma lista que retorne true se pelo menos uma das colunas contenha true
+[4:11 PM, 3/7/2019] +55 32 9815-6420: mais ou menos assim
+[4:12 PM, 3/7/2019] +55 62 8605-8772: Pode usar o .apply do pandas para rodar uma função que checa essa condição
+[4:17 PM, 3/7/2019] +55 32 9815-6420: anida não consegui abstrair rsr
+[4:17 PM, 3/7/2019] +55 32 9815-6420: porque eu queri que ele leia as colunas e não a série
+[4:18 PM, 3/7/2019] Carlos: Entao. A forma eh essa que o Rogerio falou mesmo
+[4:18 PM, 3/7/2019] Carlos: Vc faz uma funcao que va varrer as linhas de cada coluna e faça o que vc quer
+[4:19 PM, 3/7/2019] Carlos: E vc vai usa-la em seu dataset atraves do .apply
+[4:19 PM, 3/7/2019] Carlos: Pq o pandas mesmo acho q n tem um metodo pronto pra fazer isso que vc quer
+[4:22 PM, 3/7/2019] +55 32 9815-6420: assim que conseguir aviso aqui
+[4:22 PM, 3/7/2019] +55 32 9815-6420: rs
+[4:22 PM, 3/7/2019] +55 32 9815-6420: valeu
+[4:24 PM, 3/7/2019] +55 62 8605-8772: Manda um pedaço desses dados (em csv/xls), que tentamos te ajudar fazendo
+[4:42 PM, 3/7/2019] +55 32 9815-6420: eu consegui
+[4:42 PM, 3/7/2019] +55 32 9815-6420: kkkkk
+[4:42 PM, 3/7/2019] +55 32 9815-6420: vou mandar o código
+[4:48 PM, 3/7/2019] +55 41 9271-6553: Boa
+[4:48 PM, 3/7/2019] +55 41 9271-6553: No Python true e igual a 1 e false igual a 0
+[4:48 PM, 3/7/2019] Carlos: Verdade 😅
+[4:49 PM, 3/7/2019] +55 41 9271-6553: Então ver se a soma da mais que zero e bem pratico
+[4:49 PM, 3/7/2019] Carlos: Acho que poderia ser ate mais simples ainda. Só dar um sum() no seu dataset
+[4:51 PM, 3/7/2019] +55 32 9815-6420: kkkkk boa
+[4:52 PM, 3/7/2019] +55 32 9815-6420: vou enxugar o código
+[4:53 PM, 3/7/2019] +55 41 9271-6553: Só o sum() pega por coluna não?
+[4:53 PM, 3/7/2019] Carlos: Sim, mas é o que ele quer
+[4:53 PM, 3/7/2019] +55 41 9271-6553: Tem que fazer ele ir somando por linha
+[4:54 PM, 3/7/2019] Carlos: O resultado do sum te da a quantidade de valores nulos por coluna, o resultado dele é só ver as colunas que estão diferente de zero
+[4:55 PM, 3/7/2019] Carlos: Se eu entendi direito kkkk
+[5:00 PM, 3/7/2019] +55 21 99464-1431: Começa o jogo!
+[5:00 PM, 3/7/2019] +55 21 99464-1431: 8 meses de empenho
+[5:01 PM, 3/7/2019] +55 75 9128-4207: Sei sim
+[5:01 PM, 3/7/2019] Carlos: Ohooo, chique hein! Parabéns!
+[5:01 PM, 3/7/2019] +55 21 99464-1431: 👍🏽👍🏽👍🏽
+[5:06 PM, 3/7/2019] +55 11 98875-2128: 👏🏻👏🏻👏🏻👍🏻👍🏻👍🏻
+[5:16 PM, 3/7/2019] +55 62 8130-6114: Kkkkk
+[5:17 PM, 3/7/2019] +55 62 8130-6114: Bem isso...engenharia tá desse jeito...não é atoa que tem um tanto de gente migrando pra outras áreas
+[5:18 PM, 3/7/2019] +55 55 8127-8637: Nobel da Paz e Dinossauro é tranquilo.
+Tenta conseguir experiência, para poder entrar no mercado de trabalho. 🤔
+[5:20 PM, 3/7/2019] +55 62 8130-6114: Achei que a experiência era justamente o dinossauro kkk
+[5:20 PM, 3/7/2019] +55 62 8130-6114: 😅
+[5:25 PM, 3/7/2019] Carlos: 🤣😂🤣😂🤣😂🤣😂
+[5:25 PM, 3/7/2019] Carlos: Pior é ter que explicar isso pra qm sustenta a gente
+[5:41 PM, 3/7/2019] +55 55 8127-8637: Estou vivendo o outro lado agora, como empreendedor.
+Entendo um pouco a questão da exigência, pois os custos para manter um funcionário ainda são altos.
+
+E algumas empresas ainda vêem estagiário como funcionário a baixo custo.
+
+Se investirmos em programas de treinamento para estagiários, dedicando algumas horas ao ensino e pesquisa, conseguimos formar os profissionais experientes para apoiar nossos projetos.
+Tudo fica na questão do investimento.
+[6:00 PM, 3/7/2019] +55 75 9128-4207: Bem isso mesmo.... A engenharia caiu .. mais.caiu mesmo... Formei em 2009 fiz alguns trabalhos focado na área e hoje sou empreendedor.
+[6:07 PM, 3/7/2019] Carlos: Um país que não contrata engenheiros é um país fadado ao fracasso, e digo não porque sou engenheiro mas porque essa profissão geralmente está ligada a criação de novas tecnologias e consequentemente geração de empregos. Tudo o que não temos aqui..
+[6:07 PM, 3/7/2019] +55 69 9262-4781: Mano, tem o teu CPF e nome completo aí
+[6:07 PM, 3/7/2019] +55 21 99464-1431: Confio em vocês
+[6:08 PM, 3/7/2019] +55 21 99464-1431: Esse grupo é de amigos
+[6:08 PM, 3/7/2019] +55 21 99464-1431: Nunca espero o pior de amigos de TI... Relaxe
+[6:08 PM, 3/7/2019] +55 69 9262-4781: Hahaha vai nessa
+[6:09 PM, 3/7/2019] +55 69 9262-4781: Se usar um pouquinho de engenharia social, nem precisa fazer força descubro a sua data de nascimento e nome da sua mãe
+[6:17 PM, 3/7/2019] +55 13 99765-0127: Isso aí  amigo, acabei de assinar a net de 100mb, fiz isso porque meu amigo não vai ficar bravo 😂😂😂
+[6:44 PM, 3/7/2019] +55 75 9128-4207: Problema é que foi "vendido" para a sociedade que engenharia é fácil, tem rios de demanda para empregos. A mídia assinou embaixo, algumas faculdade tb e assim chegamos onde estamos. Varios engenheiro dirigindo uber (não desmerecendo a profissão, mais não precisava fazer 5 anos de engenharia). Aconteceu anos atrás com a area de TI quem lembra?
+[7:16 PM, 3/7/2019] +55 55 8127-8637: Com tantas bases de dados vendidas em bancas de camelôs....
+Divulgar no grupo não traz riscos 😅
+[7:17 PM, 3/7/2019] Carlos: Esses dias aconteceu algo bizarro aqui em casa. Trocamos a operadora de internet e pra isso tivemos que contratar uma linha telefonica nova. Ninguem sabia o numero aqui de casa, nem nos mesmos. Poucos dias depois da instalação (da vivo), ligaram do santander atras do titular da linha pra oferecer produtos.
+[7:18 PM, 3/7/2019] +55 55 8127-8637: Sim, passei por esta fase.
+Na turma de faculdade que ingressei em 2006, eram 30 alunos. Formaram 5 e 3 atuam na área, sendo um deles eu 😅
+[7:18 PM, 3/7/2019] Carlos: Na minha entraram 20, formaram 12 e nenhum tá na área 😂
+[7:20 PM, 3/7/2019] +55 55 8127-8637: O comércio de dados é gigante. 
+
+Também não sei qual o nível de acesso que as instituições têm as movimentações de CPF.
+Bancos trabalham com validação de potenciais clientes, baseado em Big data.
+[7:21 PM, 3/7/2019] +55 55 8127-8637: 😅😅😅
+Na época teve o boom da TI..
+Pessoal veio iludido que tecnologia: ganha bem, trabalha no ar condicionado e não faz quase nada.
+
+Só na cadeira de algoritmos, já caiu metade da turma 😅
+[7:23 PM, 3/7/2019] +55 69 9262-4781: Sei não hein, eu que não coloco o meu kkkj
+[7:35 PM, 3/7/2019] +55 62 8317-8601: Boa noite pessoal,
+[7:36 PM, 3/7/2019] +55 62 8317-8601: Estou precisando jogar o resultado de um dataframe para uma tabela no postgres pelo python
+[7:36 PM, 3/7/2019] +55 62 8317-8601: Sugestões?
+[7:37 PM, 3/7/2019] +55 11 95169-7140: Sqlalchemy
+[7:38 PM, 3/7/2019] +55 13 99765-0127: O boom acaba na aula de algoritmo, onde saí 20%, cálculo  1 e 2 mandam mais 30% pra casa. Introdução a Computação, Se for com pascal  10%, se for com C ou C++ esses 10% viram 30% ...Kkk 
+Aí vem pesquisa operacional e por aí vai.
+[7:39 PM, 3/7/2019] +55 11 95169-7140: Porém, se o dataframe for grande, aconselho exportar para csv e depois importar no postgres
+[7:40 PM, 3/7/2019] +55 62 8317-8601: Isso é uma função?
+[7:41 PM, 3/7/2019] +55 11 95169-7140: Não, precisa instalar no Python.
+[7:42 PM, 3/7/2019] +55 11 95169-7140: Igual ao pandas, utilizando o pip
+[7:43 PM, 3/7/2019] +55 62 8317-8601: hmm vou pesquisar
+[7:43 PM, 3/7/2019] +55 11 95169-7140: pip install sqlalchemy
+[7:43 PM, 3/7/2019] +55 11 95169-7140: Para conexão com banco de dados
+[7:43 PM, 3/7/2019] +55 62 8317-8601: mas eu ja tenho a conexao com banco
+[7:44 PM, 3/7/2019] +55 62 8317-8601: preciso so inserir um df em uma tabela
+[7:44 PM, 3/7/2019] +55 62 8317-8601: todo caso vou pesquisar, muito obrigado
+[6:40 AM, 3/8/2019] +55 62 9146-1929: https://www.youtube.com/watch?v=puYFyEpdnYU&t=2442s
+
+Mulheres Tech no Canal Sandeco! 👩‍🔬👷‍♀
+.
+Dia Internacional da Mulher! 🌹
+.
+Elas são incríveis e fazem coisas incríveis!
+
+#CanalSandeco  #IA  #diadamulher   #8demarço  #CPBR12
+[9:38 AM, 3/8/2019] +55 51 8208-8587: Olá Juliano, como foi o curso? Você diz que uma pessoa apenas com noções de programação pode fazer o curso? Ou tem que ter uma experiencia na area de big data?
+[10:02 AM, 3/8/2019] +55 21 99464-1431: O curso foi muito bom. Bem hands-on e a linguagem foi R. Muitos conceitos aplicados na pratica mesmo. Cloud computing, big data, e muito de data science e estatistica. Porém, dividiram esse curso em dois na FGV. Não é mandatorio conhecimenro prévio de programaçao, mas ajuda bastante. Te aconselho a ler um pouco sobre BIG DATA antes de encarar o desafio.
+[10:15 AM, 3/8/2019] +55 51 8208-8587: Muito obrigado parceiro, estou pensando em fazer o curso tbm.
+[10:19 AM, 3/8/2019] +55 21 99464-1431: Boa 💪🏽👍🏽
+[11:04 AM, 3/8/2019] +55 17 98123-9977: Parabéns a vc que não faz parte do grupo, mas acompanha diariamente as mensagens do seu marido. Feliz dia das mulheres! 👏🏼👏🏼👏🏼👏🏼😂
+[11:05 AM, 3/8/2019] +55 51 8208-8587: kkkk
+[11:05 AM, 3/8/2019] +55 21 98741-8282: 😒
+[12:14 PM, 3/8/2019] +55 62 9442-5298: Parabéns pra você mulher,  que não faz parte do grupo mas ta fuçando no celular do seu marido.🌹😅
+[12:34 PM, 3/8/2019] +55 11 96839-7720: Parabéns cientistas de dados, análise femenina sempre faz a diferença ✌🏼
+[12:36 PM, 3/8/2019] +55 51 8507-8018: 🤩
+[3:30 PM, 3/8/2019] +55 12 98124-3645: https://www.linkedin.com/feed/update/urn:li:activity:6509852529440935936
+[3:31 PM, 3/8/2019] +55 12 98124-3645: Parabéns as Mulheres desse grupo!!!
+[4:34 PM, 3/8/2019] +55 66 8413-9977: Qual melhor site para comprar passagens aéreas?
+[10:11 AM, 3/9/2019] +55 21 99543-0754: Kkkkkkkkk
+[10:35 AM, 3/9/2019] +55 13 99765-0127: O cara deu risada e reenviou para o mesmo grupo 🤦🏿‍♂🤦🏿‍♂
+[10:36 AM, 3/9/2019] +55 62 8275-7276: Kkkķkk
+[10:37 AM, 3/9/2019] +55 73 9157-2554: 😂😂😂😂😂
+[10:37 AM, 3/9/2019] +55 73 9157-2554: "fais parti"
+[10:45 AM, 3/9/2019] +55 24 99836-3150: kkkkkkkkkkkkkkkkkkk
+[12:14 PM, 3/9/2019] +55 55 8127-8637: 😅😅😅😅😅
+[12:31 PM, 3/9/2019] +55 17 98123-9977: 😂😂
+[1:20 PM, 3/9/2019] +55 21 97640-8231: Kkkkkk
+[1:21 PM, 3/9/2019] +55 89 9971-1420: gente alguem que entende de android studio como configuro essa página para compilar em meu smatphone ?
+[1:23 PM, 3/9/2019] +55 84 8873-5798: Você coloca o seu celular em modo desenvolvedor
+[1:24 PM, 3/9/2019] +55 89 9971-1420: Sim. Já está
+[1:25 PM, 3/9/2019] +55 89 9971-1420: nao resolveu
+[2:47 PM, 3/9/2019] +55 62 8592-0344: Tem que ativa a depuração USB. Depois é só apertar em Run 'app' é selecionar o seu celular.
+[3:18 PM, 3/9/2019] +55 24 99836-3150: parece q é uma incompatibilidade da versao do gradle
+[3:18 PM, 3/9/2019] +55 24 99836-3150: a versao minima n foi atendida
+[3:19 PM, 3/9/2019] +55 24 99836-3150: dá uma olhada na configuracao necessaria do gradle @+55 11 95479-2511
+[3:20 PM, 3/9/2019] +55 84 8873-5798: Qual o Android do seu celular?
+[3:20 PM, 3/9/2019] +55 84 8873-5798: Talvez seja isso... Você deve ter colocado uma API menor que a do seu celular
+[3:47 PM, 3/9/2019] +55 89 9971-1420: 8.1
+[3:47 PM, 3/9/2019] +55 89 9971-1420: deu certo aqui  pessoal, achei um outro codigo compatível
+[3:47 PM, 3/9/2019] +55 89 9971-1420: vlw
+[3:48 PM, 3/9/2019] +55 84 8873-5798: Configurando pra api 28 já dá certo
+[3:48 PM, 3/9/2019] +55 89 9971-1420: blz
+[3:54 PM, 3/9/2019] +55 12 99189-5138: Galera, voces sabem alguma api no qual eu consigo ver o indice de mortalidade de uma determinada cidade/bairro ?
+[3:54 PM, 3/9/2019] +55 12 99189-5138: assaltos e etc
+[5:28 PM, 3/9/2019] Carlos: 🤣🤣🤣🤣🤣🤣🤣
+[5:28 PM, 3/9/2019] Carlos: Talvez ta prevendo no que o gato ta pensando
+[5:59 PM, 3/9/2019] +55 55 8127-8637: 😅😅😅😅😅
+[7:11 PM, 3/9/2019] +55 79 9979-3132: "Intelecto muito superior aos humanos"
+[7:12 AM, 3/10/2019] +55 13 99765-0127: 😂😂😂
+[9:43 AM, 3/10/2019] +55 17 98123-9977: Compartilhando com vocês - atalhos para excel! ✌🏼✌🏼👍🏼
+[10:48 AM, 3/10/2019] +55 94 9195-2206: Vou imprimir
+[10:48 AM, 3/10/2019] +55 94 9195-2206: Vlw
+[10:49 AM, 3/10/2019] +55 94 9195-2206: Se tiver quaisquer outras, pode mandar
+[10:56 AM, 3/10/2019] +55 69 8108-0603: 👏🏻👏🏻👏🏻👏🏻
+[10:56 AM, 3/10/2019] +55 69 8108-0603: Muito bom!!!
+[10:57 AM, 3/10/2019] +55 69 8108-0603: Com quais ferramentas dá pra fazer uma imagem como essa?
+[11:21 AM, 3/10/2019] Carlos: Paint
+[11:21 AM, 3/10/2019] Carlos: Photoshop
+[11:21 AM, 3/10/2019] Carlos: PowerPoint
+[11:29 AM, 3/10/2019] +55 17 98123-9977: ✌🏼✌🏼
+[11:29 AM, 3/10/2019] +55 17 98123-9977: 👍🏼
+[11:30 AM, 3/10/2019] +55 94 9195-2206: Que vacilaum
+[11:31 AM, 3/10/2019] Carlos: Pq vacilo? Povo menospreza demais paint
+[11:32 AM, 3/10/2019] +55 94 9195-2206: Paint é leve tem várias funções fantásticas.
+[11:33 AM, 3/10/2019] +55 94 9195-2206: Mas o cara perguntou sobre a ferramenta kkk
+[11:33 AM, 3/10/2019] +55 94 9195-2206: Imagina agora o trampo que dar pra fazer no print
+[11:33 AM, 3/10/2019] +55 62 8130-6114: Eu recomendo o Adobe illustrator
+[11:33 AM, 3/10/2019] +55 62 8130-6114: O touchdesigner, eu não sei se faz....mas ele é fantástico tmb
+[11:33 AM, 3/10/2019] Carlos: Paint é uma ferramenta uai kkkk. Se vc tiver um bloquinho desse aí, o resto sai rapidinho
+[11:35 AM, 3/10/2019] +55 94 9195-2206: Video scribe é fantástico
+[11:35 AM, 3/10/2019] +55 94 9195-2206: Vidioscribe*
+[11:35 AM, 3/10/2019] +55 94 9195-2206: Pra animação rápidas
+[11:35 AM, 3/10/2019] +55 94 9195-2206: Eu quero saber o software que o sandeco faz os vídeos. Acho muito bem feito.
+[11:36 AM, 3/10/2019] +55 62 8130-6114: Sei que o Adobe Premiere fica bacana....mas o @Sandeco deve usar uma alternativa free...não sei
+[11:38 AM, 3/10/2019] +55 62 8250-2664: Boa Tarde
+[11:39 AM, 3/10/2019] +55 62 8250-2664: Alguem pode me ajudar em uma coisa, quero analisar a qualidade do meu modelo de ML
+[11:39 AM, 3/10/2019] +55 62 8250-2664: Estou utilizando o KNN
+[11:39 AM, 3/10/2019] +55 62 8250-2664: De que maneiras posso analisar a qualidade da aprendizagem além da matriz de confusão..?
+[11:46 AM, 3/10/2019] Carlos: Vc tem as métricas de classificação também, vc pode chegar a precisão e a revocação dos seus dados
+[11:48 AM, 3/10/2019] Carlos: from sklearn import metrics
+print(metrics.classification_report(y_test, resultado))
+[11:53 AM, 3/10/2019] +55 62 8250-2664: Certo, Muito Obrigado!
+[11:55 AM, 3/10/2019] Carlos: 🤙
+[11:56 AM, 3/10/2019] Carlos: Se quiser, da uma olhada nesses video aqui:
+
+www.youtube.com/watch?v=1YlCEGejaMY
+[11:56 AM, 3/10/2019] Carlos: A partir dos 28min +-
+[12:00 PM, 3/10/2019] +55 62 8250-2664: Nossa, muito bom
+[12:35 PM, 3/10/2019] +55 62 8168-5163: Oi galera
+[12:35 PM, 3/10/2019] +55 62 8168-5163: Sobre os programas que eu uso no meu estúdio de edição de vídeos
+[12:36 PM, 3/10/2019] +55 62 8168-5163: Eu uso o 
+Premiere + after effects
+[12:36 PM, 3/10/2019] +55 21 99464-1431: Curso prático sobre gestão de crise e controle da ansiedade 👇👇👇
+[12:36 PM, 3/10/2019] +55 62 8168-5163: Eu ajudo o áudio todo no Audacity... Muito bom
+[12:37 PM, 3/10/2019] +55 94 9195-2206: No slide da CP
+[12:37 PM, 3/10/2019] +55 94 9195-2206: Você usa gifs nos slides?
+[12:38 PM, 3/10/2019] +55 62 8168-5163: Os slides da CP eu uso a composição
+
+- After effects
+- Adobe Premiere
+- Power point (para sequenciar)
+[12:39 PM, 3/10/2019] +55 62 8168-5163: O slides são animações feitas no after
+[12:39 PM, 3/10/2019] +55 62 8168-5163: Transformadas em vídeos é cortadas no premiere
+[12:40 PM, 3/10/2019] +55 62 8168-5163: E ajustadas no powerpoint
+[12:40 PM, 3/10/2019] +55 62 8168-5163: Para dar o efeito de controle de vídeo
+[12:40 PM, 3/10/2019] +55 62 8168-5163: É como antigamente se fazia com o Adobe Flash
+[12:41 PM, 3/10/2019] +55 62 8168-5163: Tb uso esse recurso nas minhas aulas no IFG
+[12:41 PM, 3/10/2019] +55 94 9195-2206: É um diferencial.
+[12:41 PM, 3/10/2019] +55 94 9195-2206: Muito bem feito
+[12:41 PM, 3/10/2019] +55 94 9195-2206: Parabéns
+[12:42 PM, 3/10/2019] +55 62 8168-5163: ☺ valeu cara
+[12:42 PM, 3/10/2019] +55 62 8168-5163: Obrigado
+[12:43 PM, 3/10/2019] +55 62 8168-5163: Acho que o importante é facilitar o entendimento de quem vê.
+[12:44 PM, 3/10/2019] +55 62 8168-5163: Eu sempre digo para meus aluno que não estou me importando em mostrar que sei...
+
+Minha real preocupação é que o outro saiba
+[12:45 PM, 3/10/2019] +55 62 8168-5163: E quando eu percebo que o outro ficou sabendo... 
+pelo brilho nos olhos...
+
+Rapaz... vou te falar
+Não tem preço
+[12:46 PM, 3/10/2019] +55 94 9195-2206: O recurso de usar vídeo nos slides ajuda muito
+[12:46 PM, 3/10/2019] +55 62 8168-5163: *para meus alunos
+Ajustando o plural
+[12:46 PM, 3/10/2019] +55 94 9195-2206: Uma simples interação além de chamar atenção, dar uma dinâmica melhor
+[12:47 PM, 3/10/2019] +55 62 8168-5163: Estou pensando em rodar o país para ensinar esses recursos aos professores e tb a sala de aula invertida
+[12:47 PM, 3/10/2019] +55 62 8168-5163: Na verdade eu já tenho recebido alguns convites
+[12:48 PM, 3/10/2019] +55 62 8168-5163: São Paulo, Natal e Recifr
+[12:48 PM, 3/10/2019] +55 94 9195-2206: Você vai pra SBSC?
+[12:48 PM, 3/10/2019] +55 62 8168-5163: Existem algumas alternativas de software de edição free que podem ser usados e tal
+[12:48 PM, 3/10/2019] +55 62 8168-5163: Ainda não sei
+[12:49 PM, 3/10/2019] +55 62 8168-5163: Mas tem um aluno de pesquisa meu que quer apresentar lá
+[12:49 PM, 3/10/2019] +55 94 9195-2206: Aqui em belem
+[12:49 PM, 3/10/2019] +55 94 9195-2206: Eu vou apresentar lá
+[12:49 PM, 3/10/2019] +55 62 8168-5163: Puts vai ser show então
+[12:49 PM, 3/10/2019] +55 94 9195-2206: Se puder vir pra a gente bater um papo
+[12:50 PM, 3/10/2019] +55 94 9195-2206: Tomar um açaí raiz
+[12:51 PM, 3/10/2019] +55 62 8168-5163: Vish... adoro açaí rapaz... nem faz o convite de novo
+[12:51 PM, 3/10/2019] +55 62 8168-5163: 😂😂😂😂😂😂😂
+[12:52 PM, 3/10/2019] +55 94 9195-2206: Vai dar certo kk
+[1:36 PM, 3/10/2019] +55 89 9971-1420: tenho uma variável em java com um valor armazenado. Como envio os dados dessa variavel para um outro computador utilizando sockets?
+[1:44 PM, 3/10/2019] +55 13 99765-0127: A variavel tem que implementar a interface  Serializable
+[1:49 PM, 3/10/2019] +55 55 8127-8637: "Vixi, ferrou!!!! Agora vamos ver como resolve" 😅
+[2:00 PM, 3/10/2019] +55 48 9117-9483: as tipos básicos não precisa, só tacar no socket
+[2:22 PM, 3/10/2019] +55 62 8168-5163: Voltando ao assunto da apresentação quem já viu esse site antigo em Flash... o eye4u
+[2:23 PM, 3/10/2019] +55 62 8168-5163: O princípio de sequenciação para slides é o mesmo
+[2:23 PM, 3/10/2019] +55 62 8168-5163: https://youtu.be/hOUw2tF7agM
+[2:23 PM, 3/10/2019] +55 62 8168-5163: É um site antigo dos anos 2000
+[2:24 PM, 3/10/2019] +55 62 8168-5163: O prezi tenta fazer isso... Mas não gosto do prezi
+[2:30 PM, 3/10/2019] +55 11 94565-4077: https://www.zoom.com.br/notebook/notebook-asus-x510ur-intel-core-i5-8250u-15-6-8gb-hd-1-tb-geforce-930mx-windows-10#
+
+
+Pessoal o que vocês acham desse Notebook? Alguém recomenda? Ou será que perderia ter algum outro mais em conta que dê para roda programas pesados?
+[2:38 PM, 3/10/2019] +55 21 99811-0925: Esse notebook é “ok”, você consegue usar o office, navegar na internet bem, para programar tb é legal, mas para programas pesados ele pode ter um desempenho médio. Acredito que isso possa ser resolvido trocando o hd dele por um ssd
+[2:40 PM, 3/10/2019] +55 21 99811-0925: E se você vai fazer algo que utilize bastante memória, talvez 8gb não seja o suficiente já que o windows ocupa 4.4 gb só ao iniciar.
+[2:42 PM, 3/10/2019] Carlos: Eu tenho um notebook de 2010, i5 primeira geracao, 8gb ram, hd 512gb, sem placa de video dedicada, o bixim nunca me deixou na mao nao kkkkkk
+[2:43 PM, 3/10/2019] Carlos: Ja usei todo tipo de software de engenharia nele..o que nao roda nele eh pq realmente n eh pra rodar em serie
+[2:44 PM, 3/10/2019] Carlos: Agora qm quer investir em um workstation, minha sugestao eh juntar a grana de comprar um aqui no brasil, pega esse dinheiro, tira o visto pros eua, passa 15 dias de ferias la, compra o notebook la e volta pra ca, pelo mesmo preço 😂
+[2:44 PM, 3/10/2019] Carlos: Infelizmente
+[2:50 PM, 3/10/2019] +55 11 94565-4077: 🤣👍🏻 obrigado pelas dicas
+[2:56 PM, 3/10/2019] Carlos: Outra coisa, n sei a opiniao do pessoal ai. Mas eu odeio notebook touchscreen kkkkk
+[3:09 PM, 3/10/2019] +55 11 96170-1598: TB não gosto.. coloco o dedo na tela toda hora para apontar coisas, se fosse touch ia cagar tudo.... Kkkkkkkkk
+[3:25 PM, 3/10/2019] +55 21 99811-0925: Kkkkk compartilho da mesma opinião
+[3:29 PM, 3/10/2019] +55 55 8127-8637: 😅😅😅😅😅
+[3:32 PM, 3/10/2019] +55 98 8137-2752: Uma das coisas mais sensacionais que já vi!!!!
+Cada pontinho verde no mapa é uma rádio. Posicionando vc escuta o som que está tocando no lugar ao vivo. O som das rádios é nítido e claro. É uma grande oportunidade de se ouvir todas as tendências musicais do mundo. Girando com o dedo vamos a qualquer lugar do planeta.No canto inferior direito aparece outras rádios do país. É só trocar que muda automaticamente.
+
+
+http://radio.garden/live/clifden/connemarafm/
+[4:12 PM, 3/10/2019] +55 14 98151-0103: 👍
+[5:48 PM, 3/10/2019] +55 75 9128-4207: Kkkkkk
+[5:49 PM, 3/10/2019] +55 75 9128-4207: Estas questões de desempenho e relativo... depende muito do que vc vai rodar....
+[5:50 PM, 3/10/2019] +55 75 9128-4207: Conheço uma galera que diz que o computador dele é lento... Computador de servidor com arquitetura dedicada (xeon.. acho que é isso ai ) placa de vídeo kkkkkkkkkk
+[6:01 PM, 3/10/2019] +55 12 98124-3645: Troquei meu HD mecânico por ssd
+[6:02 PM, 3/10/2019] +55 12 98124-3645: Resolveu
+[6:02 PM, 3/10/2019] +55 12 98124-3645: Meu problema
+[7:23 PM, 3/10/2019] +55 89 9971-1420: vlw pessoal
+[8:53 PM, 3/10/2019] +55 94 9195-2206: Também não kkk
+[8:53 PM, 3/10/2019] +55 94 9195-2206: Mas eu sou muito exigente com slides, gosto de fazer o máximo mas apresentações
+[9:24 AM, 3/11/2019] +55 82 8724-4607: Ainda não ouviu esse áudio que está rolando nas redes? 😱👇🏼                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                           
+ 
+Corre e compartilha com os teus amigos! Eles não podem deixar de ouvir isso aí também, hein?
+[1:12 PM, 3/11/2019] +55 79 9979-3132: Namoral, eu conseguir 0.77033 na competição do Titanic é BOM ou NORMAL?
+[1:12 PM, 3/11/2019] +55 79 9979-3132: Usando Logistic Regression
+[1:33 PM, 3/11/2019] +55 32 9815-6420: é bom sim, mas você pode ter uma parâmetro com o score no kaggle
+[1:33 PM, 3/11/2019] +55 32 9815-6420: https://www.kaggle.com/c/titanic/leaderboard
+[1:39 PM, 3/11/2019] +55 75 9128-4207: Não conheço este desafio, mais tens uns ninja ali com 100% 😱😱😱
+[1:41 PM, 3/11/2019] +55 41 9271-6553: E fake
+[1:41 PM, 3/11/2019] +55 41 9271-6553: Pegaram o resultado já, ou fizeram um modelo com over fitting enorme
+[1:42 PM, 3/11/2019] +55 41 9271-6553: Nesse desafio o ideal é entre 80% e 90% mesmo, não tem muitos dados
+[1:46 PM, 3/11/2019] +55 75 9128-4207: Haa entendi
+[2:06 PM, 3/11/2019] +55 94 9195-2206: Vamos se juntar pra fazer uns desafios, só vir pv (sou iniciante)
+[2:07 PM, 3/11/2019] Carlos: Como eh esse desafio do titanic?
+[2:07 PM, 3/11/2019] Carlos: O dataset eu conheço, mas o desafio é o que?
+[2:50 PM, 3/11/2019] +55 79 9979-3132: Prever quem vai sobreviver
+[2:51 PM, 3/11/2019] Carlos: 👍🏻👍🏻👍🏻
+[3:16 PM, 3/11/2019] +55 61 9694-1416: Boa tarde pessoal,
+Alguém já fez extração de dados específicos pelas mídias sociais (Facebook, twitter, YouTube, etc?
+[8:18 PM, 3/11/2019] +55 11 97114-9356: https://unearthed.solutions/u/competitions/explorer-challenge
+[8:18 PM, 3/11/2019] +55 62 9146-1929: https://www.youtube.com/watch?v=5bjY_WyZKm4&list=PLbmt8d_ueDMXHPuOAZNf3lvcncUt2r4_D
+
+Se liga aí! 🔥 Tem playlist sobre 🍊-  ORANGE CANVAS - DATA SCIENCE VISUAL - no Canal Sandeco
+
+* Instalação
+* Manipulação de dados
+* Detecção de outliers
+* Predições
+* Como avaliar algoritmos de machine learning
+* Mineração de textos
+* Regressão de dados
+* Predição na classificação de textos
+* Variáveis categóricas
+
+#CanalSandeco  #IA  #OrangeCanvas
+[8:19 PM, 3/11/2019] +55 12 99127-4742: 👍🏻
+[10:29 PM, 3/11/2019] +55 21 99464-1431: https://www.coursera.org/learn/python-machine-learning
+[11:02 PM, 3/11/2019] +55 91 9335-3734: Boa noite
+[12:26 AM, 3/12/2019] +55 65 9272-2472: Boaaa
+[9:45 AM, 3/12/2019] +55 62 8605-8772: Bom dia pessoal,
+
+Escrevi um artigo contando um pouco sobre um dos projetos de Data Science e Machine Learning que estamos desenvolvendo na Secretaria de Saúde de Goiás
+
+https://www.linkedin.com/pulse/prazer-caren-wanderson-marques
+[10:46 AM, 3/12/2019] +55 27 99865-3234: Alguém tem algum algoritmo de otimizacao/maximização de lucros pra passar?
+[12:39 PM, 3/12/2019] +55 32 9815-6420: 😂😂😂😂😂
+[1:08 PM, 3/12/2019] +55 21 99811-0925: Kkkkkkkkkkkkkk maneiro
+[5:29 PM, 3/12/2019] +55 62 8431-7572: Simplex e suas variações, como o Simplex duas fases
+[6:07 PM, 3/12/2019] +55 62 9278-8181: Aqui está um programa para você… Tecnologia #53: #Start Eldorado Episódio de Estadão Notícias
+https://open.spotify.com/episode/58JPkPzPCInXE6Xchvl5Wm?si=H2AEJU2sTxWrze_WnzWS0w
+[6:08 PM, 3/12/2019] +55 62 8130-6114: Isso depende do seu problema. Como o colega disse, o Simplex é bom mas somente quando você tem um problema com funções de avaliação e restrições lineares
+[6:22 PM, 3/12/2019] +55 62 8130-6114: Se o problema envolver funções de avaliação ou restrições não lineares, você pode linearizar a partir de uma análise de sensibilidade ou usar métodos como o método de Newton, multiplicadores de Lagrange, gradiente descendente(que é um metodo de Newton), Né Mead e muitos outros que você encontra por ai, todos baseados em Hessiano.
+[6:22 PM, 3/12/2019] +55 62 8130-6114: Nelder Mead*
+[6:23 PM, 3/12/2019] +55 62 8130-6114: No MATLAB, as funções fmincon, fminunc, fminsearch podem implementar esses métodos lineares e não lineares. Basta olhar na Toolbox optimization.
+[6:24 PM, 3/12/2019] +55 62 8130-6114: Se você der uma olhada melhor, consegue encontrar esses comandos equivalentes no python, scilab, que são alternativas Free.
+[6:26 PM, 3/12/2019] +55 62 8130-6114: Se for algum problema de otimização combinatória ou não linear, usar algoritmos genéticos ou híbridos podem ser boas opções
+[8:08 PM, 3/12/2019] Carlos: Outra forma aí tbm 👍🏻
+[8:24 PM, 3/12/2019] +55 17 98123-9977: Top linguagens
+[8:27 PM, 3/12/2019] +55 94 9195-2206: Matlab é uma linguagem?
+[8:32 PM, 3/12/2019] +55 17 98123-9977: Discutível hehe
+[8:39 PM, 3/12/2019] Carlos: Porque não?
+[9:04 PM, 3/12/2019] +55 62 8130-6114: Acho que tem uma discussão disso no stackoverflow
+[9:11 PM, 3/12/2019] +55 62 8431-7572: 😂😂😂
+[9:13 PM, 3/12/2019] +55 17 98123-9977: Na verdade, talvez um conjunto de linguagens - C , Java e Basic
+[11:15 PM, 3/12/2019] +55 62 8168-5163: Conheci um gênio
+[11:16 PM, 3/12/2019] +55 62 8168-5163: Mas um gênio que não tem rei na barriga... cara muito gente boa.
+[11:21 PM, 3/12/2019] +55 62 8168-5163: Hans Donner é brilhante
+[11:22 PM, 3/12/2019] +55 62 8264-5773: 😍❤
+[11:23 PM, 3/12/2019] +55 94 9195-2206: Matlab é tipo html e latex. Eu aprendi que não é linguagem, mas não sei pq kkk
+[11:24 PM, 3/12/2019] +55 35 8867-3048: Lenda!
+[11:39 PM, 3/12/2019] Carlos: Tipo html e latex? A nao...aí não uai
+[11:40 PM, 3/12/2019] +55 35 8867-3048: Pessoal vocês acham que o mercado de desenvolvimento mobile ainda vale a pena ?!
+[12:22 AM, 3/13/2019] +55 62 9955-6017: Cade a Globeleza?
+[12:26 AM, 3/13/2019] +55 89 9971-1420: 😄😄😄😄😄
+[12:27 AM, 3/13/2019] +55 89 9971-1420: show 👏🏼👏🏼👏🏼
+[12:28 AM, 3/13/2019] +55 62 8130-6114: https://la.mathworks.com/matlabcentral/answers/151436-matlab-is-scripting-language-or-programming-language
+[12:34 AM, 3/13/2019] Carlos: Q q tem esse link, Renato? Nao tem nada nele
+[12:37 AM, 3/13/2019] +55 62 8130-6114: é de uma pergunta que foi feita no matlab answers...um dos moderadores lá designa como scripting language....e cita uma discussão no stackoverflow, que é a que eu havia indicado antes
+[12:37 AM, 3/13/2019] +55 62 8130-6114: diferença entre scripting language e programming language
+[12:37 AM, 3/13/2019] Carlos: Nao, pera ai
+[12:38 AM, 3/13/2019] Carlos: É diferença e entre linguagem de scripting e linguagem compiladas. Todas tratadas como linguagem de programacao
+[12:38 AM, 3/13/2019] Carlos: Bem diferente de html que é linguagem de marcação, como citaram aí pra cima
+[12:39 AM, 3/13/2019] Carlos: Agora se querem colocar matlab não sendo uma linguagem de programacao, tem que por js no meio tbm.
+Aí quero ver qm concorda
+[12:43 AM, 3/13/2019] +55 62 8130-6114: linguagem ou não, sei que o matlab é muito bom e me serve demais....estou aprendendo python por ser algo atual, free além de possibilitar muitas coisas no ramo de desenvolvimento...dar um upgrade na carreira....
+[12:44 AM, 3/13/2019] +55 62 8130-6114: não teve uma vez que precisei do matlab pra computação científica que ele não me serviu...
+[12:46 AM, 3/13/2019] Carlos: Matlab é bom demais, pena que é tão caro
+[12:47 AM, 3/13/2019] Carlos: Se fosse pelo menos mais barato tenho certeza que ele estaria muito melhor posicionado nessa lista, ele faz de tudo..
+[12:48 AM, 3/13/2019] +55 62 8130-6114: verdade...
+[7:56 AM, 3/13/2019] +55 17 98123-9977: https://www.latimes.com/nation/la-na-new-york-computer-policing-20190310-story.html
+[7:57 AM, 3/13/2019] +55 17 98123-9977: Vem ai a era - minority report
+[10:25 AM, 3/13/2019] +55 62 8168-5163: Bom dia Brasília
+[10:26 AM, 3/13/2019] +55 62 8168-5163: Como adoro essa cidade
+[10:31 AM, 3/13/2019] +55 27 99865-3234: Muito muito muito obrigada! 🤩🤩🤩
+[10:49 AM, 3/13/2019] +55 84 8873-5798: Algoritmo Genético ❤
+[11:23 AM, 3/13/2019] +55 11 98303-6967: Galera preciso de uma ajuda, alguém ja usou o Colaboratory ?!
+[11:56 AM, 3/13/2019] +55 12 98124-3645: Sim
+[11:56 AM, 3/13/2019] +55 12 98124-3645: O q vc precisa
+[1:07 PM, 3/13/2019] +55 11 98303-6967: Vou participar de um treinamento e eles pedem um conhecimento basico
+[1:08 PM, 3/13/2019] +55 11 98303-6967: Eu queria saber se é parecido com o jupyter e se é bom
+[1:09 PM, 3/13/2019] +55 12 98124-3645: Muito bom
+[1:09 PM, 3/13/2019] +55 12 98124-3645: Sim é parecido com o jupyter
+[1:09 PM, 3/13/2019] +55 12 98124-3645: Entra lá e dá uma olhafa
+[1:10 PM, 3/13/2019] +55 11 98303-6967: Eu to olhando aqui agora, bem parecido mesmo achei interessante que ele.usa o google drive pra salvar os dados
+[1:10 PM, 3/13/2019] +55 11 98303-6967: Vou ir um pouco mais a fundo
+[1:10 PM, 3/13/2019] +55 11 98303-6967: Valeu Luis
+[1:11 PM, 3/13/2019] +55 12 98124-3645: Consegue Acessar o git
+[1:11 PM, 3/13/2019] +55 12 98124-3645: 12 GB de memória
+[2:22 PM, 3/13/2019] +55 12 98124-3645: Alguém trabalha com i.a no SPED aqui?
+[4:21 PM, 3/13/2019] +55 35 9108-2846: Boa tarde,@Sandeco e geral, tudo joia? to trabalhando com os dados aqui, mas estou com uma duvida para mandar para uma IA, eu tenho datas e horas, como devo deixar para os modelos, alguem ai ja passou por isso?
+[4:25 PM, 3/13/2019] Carlos: Vc quer saber o formato correto?
+[4:25 PM, 3/13/2019] Carlos: De variaveis tipo data?
+[4:26 PM, 3/13/2019] +55 35 9108-2846: isso
+[4:26 PM, 3/13/2019] +55 35 9108-2846: tipo
+[4:27 PM, 3/13/2019] +55 35 9108-2846: no momento ta no padrão datatime, to fazendo as coisas no python, ai gravou direto para o csb
+[4:27 PM, 3/13/2019] +55 35 9108-2846: csv*
+[4:27 PM, 3/13/2019] +55 35 9108-2846: mas para um algoritmo acho que nao pode mandar assim
+[4:28 PM, 3/13/2019] Carlos: Bom, um curso que eu fiz recentemente pedia pra deixar datas no padrao aaaa/mm/dd
+[4:28 PM, 3/13/2019] Carlos: Nao to lembrando qual é o padrao do datetime mas acho que vc pode deixar ele no formato original sim
+[4:29 PM, 3/13/2019] Carlos: Como assim?
+[4:29 PM, 3/13/2019] +55 35 9108-2846: as datas e as horas faz parte do dataset, e por exemplo em uma rede neural, ela sai multiplicando os valores com os pesos, mas a hora não é um formato numerico para multiplicação
+[4:30 PM, 3/13/2019] Carlos: Mas ele faz isso mesmo se a variavel for explicitamente do tipo date?
+[4:30 PM, 3/13/2019] +55 35 9108-2846: entao, acho que não
+[4:31 PM, 3/13/2019] +55 35 9108-2846: que que pede valores int ou float
+[4:31 PM, 3/13/2019] +55 35 9108-2846: por isso que tem que categorizar as coisas, tipo, quando vc tem algo que fala se é bom medio ou ruim, tem que passar para numeros
+[4:31 PM, 3/13/2019] Carlos: Pois é. Quando vc usa o datetime ele transforma suas entradas em variaveis date, n eh float nem int nem string, é date
+[4:32 PM, 3/13/2019] Carlos: Agora n sei o que acontece qnd vc importa esse arquivo
+[4:32 PM, 3/13/2019] Carlos: Tipo, vc cria as dates, salva em um csv e depois importa em um algoritmo novo, n sei como ele vê as datas
+[4:33 PM, 3/13/2019] +55 35 9108-2846: vou dar uma olhada na documentação
+[4:34 PM, 3/13/2019] Carlos: Eu to assistindo um curso que o cara tem justamente esse problema. Ele importa uns dados, e uma parte dos dados que deveriam ser datas, vem como object
+[4:34 PM, 3/13/2019] Carlos: Ai ele usa essa funcao aqui
+[4:35 PM, 3/13/2019] Carlos: Pra transformar a coluna Month em variaveis do tipo datetime
+[4:36 PM, 3/13/2019] Carlos: Mandei a foto mas parece que o whatsapp ta com mal funcionamento hj p enviar foto e video..uma hr ela chega aí
+[4:37 PM, 3/13/2019] +55 35 9108-2846: hj ta hard msm
+[4:37 PM, 3/13/2019] +55 35 9108-2846: vou ficar esperando haha
+[4:40 PM, 3/13/2019] Carlos: base = pd.read_csv(‘AirPassengers.csv’)
+
+dateparse = lambda dates: pd.datetime.strptime(dates, ‘%Y-%m’)
+
+base = pd.read_csv(‘AirPassengers.csv’, parse_dates = [‘Month’], index_col = ‘Month’, date_parser = dateparse)
+[4:41 PM, 3/13/2019] Carlos: No caso o dataset tem uma coluna Month que deveriam ter datas
+[4:53 PM, 3/13/2019] Carlos: Ai esse Y-m é o tipo de data que ele tinha no arquivo, que incluia só ano e mes e os % pra indicar que poderiam ter mais numeros, não só um ou dois. Aí vc adapta pro seu tipo de data aí
+[5:02 PM, 3/13/2019] +55 35 9108-2846: ah sim
+[5:02 PM, 3/13/2019] +55 35 9108-2846: vou ver aqui, vlw cara
+[7:40 PM, 3/13/2019] +55 75 9128-4207: Fala galera... Alguém aqui faz consultoria em Data Science, pode me informar como está o mercado?
+[10:41 AM, 3/14/2019] +55 89 9971-1420: gente alguem sabe pq desse erro?
+[10:42 AM, 3/14/2019] +55 89 9971-1420: estiu mandando um arquivo pro github atraves do git, porem dar esse erro na hora do push
+[10:44 AM, 3/14/2019] +55 11 94865-3995: falta colocar a localização do seu diretorio no git
+[10:50 AM, 3/14/2019] +55 89 9971-1420: vlww
+[11:59 AM, 3/14/2019] +55 21 99464-1431: Quase isso... 😂
+[12:15 PM, 3/14/2019] +55 21 97640-8231: 😂😂
+[2:16 PM, 3/14/2019] +55 12 98124-3645: Amanhã tenho q tentar desmistificar a I.A aqui na empresa
+[2:16 PM, 3/14/2019] +55 12 98124-3645: Fiz uma apresentação
+[2:16 PM, 3/14/2019] +55 12 98124-3645: Podem dar uma olhada
+[2:17 PM, 3/14/2019] +55 12 98124-3645: E criticar por favor
+[2:19 PM, 3/14/2019] +55 65 9272-2472: No slide 5, acho que você queria dizer "Estatística"
+[2:19 PM, 3/14/2019] +55 65 9272-2472: Confere?
+[2:19 PM, 3/14/2019] +55 12 98124-3645: Kkk
+[2:19 PM, 3/14/2019] +55 12 98124-3645: Isso
+[2:21 PM, 3/14/2019] +55 65 9272-2472: Ficou bem didático! Parabéns!
+[2:22 PM, 3/14/2019] +55 12 98124-3645: Obrigado
+[2:41 PM, 3/14/2019] +55 12 98862-4725: Correlação espúrias ?
+[2:45 PM, 3/14/2019] +55 11 98603-3145: o cidadão não tinha instrução so pode... rsrsrsrsr
+[2:48 PM, 3/14/2019] +55 51 8507-8018: desculpe, mas é seleção natural que se chama?? 
+Não tem outra explicação, pobre mãezinha... 🤦🏼‍♀
+[2:50 PM, 3/14/2019] +55 51 8507-8018: https://www.boatos.org/brasil/jovem-tenta-subir-arco-de-osasco-e-tem-foto-de-sonic-no-perfil-diz-hoax.html
+[2:50 PM, 3/14/2019] +55 51 8507-8018: mas eu não duvido
+[2:51 PM, 3/14/2019] +55 51 8507-8018: 😖
+[2:53 PM, 3/14/2019] +55 11 98256-2544: oq vai aparecer de noticia vinculando morte a video game rs
+[2:53 PM, 3/14/2019] +55 17 98123-9977: Hehe que bom que era somente um hoax...
+[2:54 PM, 3/14/2019] +55 17 98123-9977: Verdade!
+[2:55 PM, 3/14/2019] +55 11 98256-2544: mas a impressao da foto ter sido tirada do celular na TV, traz um pouco mais de vericidade rs
+[2:57 PM, 3/14/2019] +55 17 98123-9977: Pois eh
+[5:45 PM, 3/14/2019] Carlos: Pessoal vcs aconselham o uso do Jupyter qnd vc está efetivamente desenvolvendo? Ou ele é melhor apenas pra quando vc quer preparat alguma apresentação, por exemplo?
+[5:46 PM, 3/14/2019] Carlos: Eu acho ele meio ruim por nao poder visualizar as variaveis a qualquer momento, diferentemente do spyder por exemplo..
+[5:46 PM, 3/14/2019] Carlos: Não sei se tem alguma forma de permitir isso
+[5:53 PM, 3/14/2019] +55 11 98603-3145: quando eu previso ver as variaveis eu uso o spyder
+[5:53 PM, 3/14/2019] +55 11 98603-3145: quando não preciso ver... uso visual code
+[5:53 PM, 3/14/2019] +55 11 98603-3145: muito leve
+[5:54 PM, 3/14/2019] +55 11 98603-3145: percebe tambem que pra trabalhar com deep learning  melhor usar o pacote CONDA porque ja vem tudo prontinho para usar
+[5:55 PM, 3/14/2019] +55 11 98603-3145: configurar um tensorflow na gpu na unha é foda
+[5:55 PM, 3/14/2019] +55 11 98603-3145: instala o anaconda e ja era... ja vem o pacote prontinho com suas de pendencias
+[5:56 PM, 3/14/2019] Carlos: Eu uso o jupyter pelo anaconda mesmo
+[5:56 PM, 3/14/2019] Carlos: Eu gosto dele mas to começando a tomar raiva por conta desses negocios das variaveis kkkkkk
+[5:56 PM, 3/14/2019] Carlos: Gosto de fazer as anotacoes nele e tal...mas eh foda ter q toda hora chamar variavel p ver oq tem nela
+[5:57 PM, 3/14/2019] +55 11 98603-3145: se estar usando o anaconda então usa o spyder que vc consegue ver
+[5:57 PM, 3/14/2019] +55 11 98603-3145: é de boa
+[5:58 PM, 3/14/2019] +55 11 98603-3145: Eu uso mais o visual code porque é muito rapido e bom
+[5:58 PM, 3/14/2019] +55 11 98603-3145: e tem o snippets pra não precisar ficar escrevendo toda hora o mesmo codigo
+[5:58 PM, 3/14/2019] +55 11 98603-3145: mas... não da pra ver as variáveis
+[5:58 PM, 3/14/2019] +55 11 98603-3145: não como no spyder na hora
+[5:59 PM, 3/14/2019] +55 11 98603-3145: rápido e integrado
+[6:27 PM, 3/14/2019] +55 62 8168-5163: Não... Jupyter é bom para quando vc está estudando o problema. Jupyter é um Lab
+[6:27 PM, 3/14/2019] +55 62 8168-5163: Normalmente existem dois momentos na tarefa de aprendizagem
+[6:27 PM, 3/14/2019] +55 11 98603-3145: mas pra estudar o problema precisamos ter as variáveis ali faceis pra ver
+[6:27 PM, 3/14/2019] +55 11 98603-3145: =)
+[6:28 PM, 3/14/2019] +55 11 98603-3145: elucida-nos
+[6:30 PM, 3/14/2019] +55 12 99127-4742: 👍🏻
+[6:30 PM, 3/14/2019] Carlos: Obrigado, Sandeco! Eu tava nessa linha aí mesmo, agora so fiquei mais incentivado a abandonar o Jupyter kkkkk
+[6:31 PM, 3/14/2019] Carlos: Posso estar errado mas acho que não da pra ver as variáveis nem no pycharm né? Da forma com que é feito no Spyder
+[6:33 PM, 3/14/2019] Carlos: Bem lembrado. Estilo SQL
+[6:35 PM, 3/14/2019] Carlos: Entendi seus pontos. Bem legal. Acho que ambos são necessários mesmo, mas pra fase que eu tô, mais de investigação, é spyder/vscode/pycharm. Hora que estiver tudo pronto, mando tudo pro Jupyter pra documentar.
+Valeu demais chefe!! 🤙🤙🤙
+[8:41 PM, 3/14/2019] +55 61 9694-1416: Prêmio por ser humano?🤔
+[8:43 PM, 3/14/2019] +55 11 98603-3145: Comedor de farofa kkkkk
+[8:43 PM, 3/14/2019] +55 11 98603-3145: O Godzilla da farofa kkkkkkkk
+[9:09 PM, 3/14/2019] +55 62 9955-6017: 👏🏻👏🏻👏🏻🤖🤖🤖
+[10:37 PM, 3/14/2019] +55 17 98123-9977: Kkk
+[10:45 PM, 3/14/2019] +55 11 98603-3145: Kkkkkk
+[10:45 PM, 3/14/2019] +55 11 98603-3145: O farofento ta dormindo agora
+[10:58 PM, 3/14/2019] +55 62 8168-5163: 🤣🤣🤣🤣🤣
+[10:58 PM, 3/14/2019] +55 11 98603-3145: 🙂😁😄😆🙂
+[11:06 PM, 3/14/2019] +55 62 8168-5163: Pior que não rolou nada de farofa aqui. #chateado
+[11:38 PM, 3/14/2019] +55 62 8168-5163: Mas foi massa
+[11:38 PM, 3/14/2019] +55 62 8168-5163: Só nos 🍤
+[12:00 AM, 3/15/2019] +55 11 98603-3145: Brasília não tem farofa... Não é possível kkkkkkkk
+[12:00 AM, 3/15/2019] +55 11 98603-3145: 🙂🙂🙂🙂
+[10:22 AM, 3/15/2019] +55 17 98123-9977: https://mobile.valor.com.br/carreira/6143741/nas-empresas-sobram-dados-e-faltam-talentos-para-traduzi-los
+[11:35 AM, 3/15/2019] +55 21 97640-8231: 😅😅😅
+[12:45 PM, 3/15/2019] +55 62 8168-5163: 🤣🤣🤣🤣🤣🤣🤣
+[3:20 PM, 3/15/2019] +55 62 9146-1929: Data Science Fácil e visual com o Orange Canvas. Cientistas de Dados é a profissão mais requisitada no mundo. Esse workshop faz parte do movimento "inteligência artificial é para qualquer um". É para você também.
+[3:31 PM, 3/15/2019] +55 74 9964-1515: Faz um live pra nós ☺
+[3:31 PM, 3/15/2019] +55 74 9964-1515: Ou faz uma transmissão via YouTube
+[3:31 PM, 3/15/2019] +55 74 9964-1515: ☺
+[3:32 PM, 3/15/2019] +55 14 98151-0103: Tá em todas ... risos! Parabéns 👏👏👏
+[3:37 PM, 3/15/2019] +55 11 94565-4077: Faz uma live. Please!
+[7:24 PM, 3/15/2019] Carlos: Pessoal, boa noite.
+Se alguém puder me tirar uma dúvida, estou tentando instalar o tensor flow no meu pc mas aparentemente não consigo as versões mais recentes por meu processador não ter suporte a AVX. Alguém sabe alguma outra solução além de instalar versões antigas do TF? Obrigado!!
+[7:40 PM, 3/15/2019] +55 41 9162-1533: No windows eu só consegui instalar o TF 1.5 no python 3.6
+[7:44 PM, 3/15/2019] +55 34 8411-9268: Uma dúvida ta instalando em notebook ou desktop? (É dúvida mesmo, só pra saber seu eu instalo no meu notebook)
+[7:44 PM, 3/15/2019] Carlos: Notebook
+[7:45 PM, 3/15/2019] Carlos: E como vc conseguiu instalar ele? Foi pelo anaconda? Aparentemente essa versao n da pra instalar pelo pip
+[7:45 PM, 3/15/2019] +55 41 9162-1533: Eu instalei via pip
+[7:45 PM, 3/15/2019] +55 41 9162-1533: Não uso o Anaconda não gosto
+[7:46 PM, 3/15/2019] Carlos: Independentemente,
+Foi assim?
+
+pip install tensorflow==1.5
+[7:47 PM, 3/15/2019] +55 41 9162-1533: Algo assim não lembro direito, mas é só escolher a versão
+[7:47 PM, 3/15/2019] Carlos: Pois é, nao ta indo assim :/ acho q n tem mais suporte pra essa versao
+[7:48 PM, 3/15/2019] +55 41 9162-1533: Lembrando q só até o 3.6
+[7:51 PM, 3/15/2019] Carlos: Pode ser 3.6.8 será? Kkkkk
+[7:51 PM, 3/15/2019] +55 41 9162-1533: Acho q não
+[7:51 PM, 3/15/2019] +55 41 9162-1533: Até a .3 acho q dá
+[7:52 PM, 3/15/2019] Carlos: Vou de .0 mesmo
+[8:56 PM, 3/15/2019] +55 12 98124-3645: Pessoal tem algum NoSql no SQLite
+[8:56 PM, 3/15/2019] +55 12 98124-3645: Parecido com SQLite
+[9:07 PM, 3/15/2019] +55 12 98124-3645: Alguém já trabalhou com tinydb
+[9:07 PM, 3/15/2019] +55 12 98124-3645: ?
+[9:26 PM, 3/15/2019] Carlos: No caso aqui n eh nem speed
+[9:26 PM, 3/15/2019] Carlos: Eh age mesmo kkkkk
+[9:39 PM, 3/15/2019] +55 79 9979-3132: No meu é miss
+[12:04 AM, 3/16/2019] Carlos: Rapaz, deu certo. Só agora!!! 🤣🤣
+[12:05 AM, 3/16/2019] +55 41 9162-1533: Eu demorei conseguir tb
+[12:05 AM, 3/16/2019] Carlos: No final to com a versao 3.6.8 do python e a 1.5 do TF
+[12:05 AM, 3/16/2019] +55 41 9162-1533: É que nosso processador é antigo
+[12:06 AM, 3/16/2019] Carlos: Nossa, deu pepino demais aqui. Eu instalei a versao mais recente do tf no python 3.7. Mas como meu proc nao pega avx, tinha q fazer downgrade do TF mas eles n funcionam no python3.7, ai fui fazer downgrade do python, deu pau em todas as bibliotecas que eu usava, tive que desinstalar e instalar todas...
+[12:06 AM, 3/16/2019] Carlos: Que trabalheira. Com ctz tem um jeito mais rapido de fazer
+[12:07 AM, 3/16/2019] Carlos: Ai eu instalei o python 3.6.0 e o anaconda nao abria, deve ser algum bug da versao kkkk. Ai dei um update all, ele pulou p essa versao 3.6.8 mas n atualizou as lins
+[12:07 AM, 3/16/2019] Carlos: libs
+[12:08 AM, 3/16/2019] Carlos: Ave maria..vou ate dormir depois desse rolo.
+Mas valeu as dicas, Leopoldo. Um abraço
+[12:10 AM, 3/16/2019] +55 41 9162-1533: 👍🏻
+[7:03 AM, 3/16/2019] +55 62 8168-5163: Tenta dar uma olhada no Docker na próxima vez. Cria um container do Tensorflow-gpu ou vou isolado do seu Python do sistema operacional. Mais tranquilo e seguro de mexer. Vale a pena aprender o Docker.
+[7:04 AM, 3/16/2019] +55 62 8168-5163: *Tensorflow-gpu ou cpu
+[7:05 AM, 3/16/2019] +55 62 8168-5163: Check out this job at Nubank: https://www.linkedin.com/jobs/view/1171216263
+
+Data Engineer - SP
+[7:05 AM, 3/16/2019] +55 62 8168-5163: Nubank contratando
+[9:58 AM, 3/16/2019] +55 92 8176-7225: 🤣
+[11:23 AM, 3/16/2019] +55 12 98124-3645: http://robotlawyerlisa.com/
+[11:23 AM, 3/16/2019] +55 12 98124-3645: http://rossintelligence.com/
+[11:23 AM, 3/16/2019] +55 12 98124-3645: Discordo totalmente
+[11:36 AM, 3/16/2019] +55 51 9208-1782: Oi, sou a Clarissa. Especialista em Processamento da Linguagem Natural, usuária de Machine Learning para este fim há 5 anos e estudando data Science. Estou procurando emprego em Porto Alegre.
+[12:40 PM, 3/16/2019] +55 62 8168-5163: O mundo será transformado pelas meninas super empoderadas 
+http://bit.ly/swwgoiania2019
+[12:43 PM, 3/16/2019] +55 92 8176-7225: Pessoal existe algum projeto de chatbot disponível p/ a área de suporte em TI?
+[12:49 PM, 3/16/2019] +55 11 98256-2544: pessoal
+Bom dia?
+
+alguem tem algum curso gratis de logica de programação?
+minha irma entende da parte de matematica e estatistica, mas nao sabe programar
+e meio que esta querendo entrar nessa parte de DS e ML
+
+se alguem tiver...e pude encaminhar fico agradecido
+
+valeu
+abs
+[1:04 PM, 3/16/2019] Carlos: Procura pelo canal “Curso em Video” no youtube
+[1:04 PM, 3/16/2019] Carlos: La tem curso de logica de programacao e de python
+[1:05 PM, 3/16/2019] Carlos: E varios outros..
+[1:05 PM, 3/16/2019] +55 11 98256-2544: vou ver agora
+[1:05 PM, 3/16/2019] +55 11 98256-2544: pera ai
+[1:07 PM, 3/16/2019] +55 11 98256-2544: achei
+Valeu rapaz
+ja passei pra ela
+[1:08 PM, 3/16/2019] Carlos: 👍🏻
+[1:18 PM, 3/16/2019] +55 55 8127-8637: https://youtu.be/RICGXfeLCAM
+[1:52 PM, 3/16/2019] +55 75 9128-4207: Daqui a pouco vão usar para não perder contrato kkkkkkkkk
+[1:56 PM, 3/16/2019] +55 41 9162-1533: É mais provável que a operadora compre para baratear os custos e não deixar vc cancelar
+[2:04 PM, 3/16/2019] +55 55 8127-8637: Será uma briga de sistemas 😅😅😅
+[2:05 PM, 3/16/2019] +55 41 9793-9726: Não tem interesse de morar em Curitiba?
+[2:17 PM, 3/16/2019] +55 51 9208-1782: Oi Erick. Obrigada pelo contato. Por enquanto não, meu objetivo é ficar em Porto Alegre mesmo.
+[2:18 PM, 3/16/2019] +55 41 9793-9726: 👊🏻
+[2:52 PM, 3/16/2019] +55 62 9146-1929: 🔥🔥🔥🔥🔥
+[3:10 PM, 3/16/2019] +55 21 99464-1431: http://datascienceacademy.com.br/blog/a-diferenca-entre-cientistas-de-dados-engenheiros-de-dados-estatisticos-e-engenheiros-de-software/
+[4:30 PM, 3/16/2019] +55 13 99765-0127: As vezes é o que dá pra fazer no tempo que vc tem. Na faculdade é tudo lindo, mas a vida real é diferente. Já trabalhei em fabrica de software, que o bicho pegava, os caras pegaram um projeto e foram contratar as pessoas depois, ou seja, já começou atrasado. O entrevistador mentia para o entrevistado para contratar, estava pegando nego a laço porque não tinha gente. Já fui trabalhar em um banco cliente, quando estávamos no elevador do cliente o gerente de projeto, disse a partir de agora todo mundo é sênior, sendo que eu era Júnior e tinha até estagiário sendo alocado como sênior.
+[4:41 PM, 3/16/2019] +55 74 9964-1515: Talvez você esteja acostumado a frequentar ambientes desse nível (muita mentira, jogo sujo e fora da realidade...) e não teve oportunidade de atuar com verdadeiras faculdades, empresas de respeito e até mesmo com colegas e/ou gerentes que não tenham caráter.
+[4:41 PM, 3/16/2019] +55 74 9964-1515: Uma dica, se me permite...
+[4:43 PM, 3/16/2019] +55 74 9964-1515: Comece a escolher as empresas que tenham seus propósitos bem definidos e que você possa contribuir com suas competências e habilidades e também com seus projetos.
+[4:44 PM, 3/16/2019] +55 74 9964-1515: Em todos os lugares encontrarás todos os tipos de gente, de empresas e de atitudes.
+Fique atento!!!
+[4:44 PM, 3/16/2019] +55 74 9964-1515: Espero ter contribuído!!!
+[4:44 PM, 3/16/2019] +55 74 9964-1515: Abração!!!
+[4:45 PM, 3/16/2019] +55 74 9964-1515: Frequentar não, trabalhar***
+[4:45 PM, 3/16/2019] +55 74 9964-1515: 👍🏻
+[6:20 PM, 3/16/2019] +55 13 99765-0127: Bom legal a sua exposição, só estou sendo realistas no que disse. 
+Já trabalhei em diversas empresas,  grandes e pequenas, boas e ruins. 
+Como falei, quando você é Júnior você quer só uma oportunidade não importa onde, você tem que ter experiência no currículo, acaba caindo em barca furada, as vezes troca empresa boa por empresa ruins, foi o caso da empresa em que o entrevistador, enganou a mim e a muito outros, moro quase 80km de distância do trabalho, troquei por algo próximo de casa, e aceitei ganhar menos para ficar perto e ter tempo para aproveitar meu filho recém nascido na época.
+Depois disso trabalhei em outras empresas com excelente ambiente, hoje faço home office e num bom ambiente quando preciso ir para empresa.
+Depois de 10 anos trabalhando na área a gente ganha um pouco experiência
+[6:30 PM, 3/16/2019] +55 13 99765-0127: UMA pequena que prezo pela qualidade, mas tem momentos em que isso não é possivel
+[6:55 PM, 3/16/2019] +55 74 9964-1515: 👍🏻👍🏻
+[6:55 PM, 3/16/2019] +55 74 9964-1515: Jogue duro!!!
+[9:56 PM, 3/16/2019] +55 13 99765-0127: https://www.udemy.com/pandas-seaborn-data-science-and-visualization-masterclass/
+[9:56 PM, 3/16/2019] +55 13 99765-0127: Free
+[1:10 AM, 3/17/2019] +55 62 8130-6114: Recomendo pessoal...comecei a estudar por ele e tô gostando
+[1:10 AM, 3/17/2019] +55 62 8130-6114: Só que ele tem mais o fundamento matemáticos e os pormenores dos tratamentos feitos com séries temporais...
+[9:18 AM, 3/17/2019] +55 51 8208-8587: Pessoal, bom dia. Qual caminho vocês sugerem para começar aprender machine learning para um programador ? Já tenho experiência com programação web e automação em Python. Só que zero de ML. Alguém de vocês começaram assim? Qual caminho usaram para um aprendizado bom?
+[10:14 AM, 3/17/2019] +55 74 9964-1515: E essa foto? 😂😂😂😂
+[10:14 AM, 3/17/2019] +55 74 9964-1515: Massa
+[10:14 AM, 3/17/2019] +55 62 9146-1929: Melhor foto kkkkk
+[10:14 AM, 3/17/2019] +55 62 9146-1929: 🤣🤣🤣
+[10:15 AM, 3/17/2019] +55 74 9964-1515: 👍🏻😂😂
+[11:07 AM, 3/17/2019] +55 21 99464-1431: 👏🏽👏🏽👏🏽👏🏽👏🏽👏🏽💪🏽
+[11:52 AM, 3/17/2019] +55 13 99765-0127: Aprender numpy, pandas(tratamento de dados), matplotlib, seaborn(visualização), scikitlearn(algoritmo ml)
+Apesar do Scikitlearn fazer mais que isso.
+
+Acho que é isso, galera se eu estiver errado me corrijam por favor.
+[11:57 AM, 3/17/2019] +55 34 8411-9268: Ta certo!
+[12:18 PM, 3/17/2019] Carlos: Procura pelo blog mineirando dados e assiste a “mentoria evolution” deles. Sao 10 aulas que vao desde o basico de python ate a introducao de alguns algoritmos de ML. Vale a pena e é rapidinho
+[12:28 PM, 3/17/2019] +55 51 8208-8587: Boa galera. Eu comecei um curso no Udacity grátis e acabei não entendendo mto bem por causa das libs que usaram. Valeu mesmo.
+[12:31 PM, 3/17/2019] Carlos: Minerando*
+[1:02 PM, 3/17/2019] +55 11 98571-7180: Como vc tem background em programação acredito q será mais tranquilo para aprender assuntos relacionados a linguagem e tals ... No meu ponto de vista vc deveria preencher os gaps naturais que  um programador teria em relação a área  de Data Science, como estatística, inferência, álgebra linear para entender melhor ML, econometria tbm é bem importante para saber repressões ...
+[1:03 PM, 3/17/2019] +55 11 98571-7180: Pandas, numpy, matplot e bibliotecas do tipo não vão parecer tão complicadas se vc sanar seus gaps de matemática e estatística ...
+[1:04 PM, 3/17/2019] +55 62 8130-6114: Concordo
+[1:08 PM, 3/17/2019] +55 11 98571-7180: *regressões ... Meu corretor ta complicado kkkkkkk ...
+[1:10 PM, 3/17/2019] +55 11 98571-7180: Estou lendo um livro de econometria para ter mais conhecimento e entender melhor como aplicar modelos dependendo do tipo de problema ... Vou colocar o pdf aqui ... O autor diz que geralmente para leigos e iniciantes até o capítulo 9 seria bom ler ... Mas fica da intenção de cada um ...
+[1:11 PM, 3/17/2019] +55 62 8130-6114: Vlw por compartilhar
+[1:11 PM, 3/17/2019] +55 51 9208-1782: Obrigada. Muito útil.
+[1:12 PM, 3/17/2019] +55 11 98571-7180: Bom para ler o livro, ter algum prévio conhecimento em estatística descritiva e inferencial
+[1:13 PM, 3/17/2019] +55 11 98571-7180: Na Udacity tem dois cursos de graça para isso
+[1:45 PM, 3/17/2019] +55 32 9815-6420: Sabia n, vou procurar
+[1:47 PM, 3/17/2019] +55 51 8208-8587: Poxa galera. Valeu mesmo hein.
+[1:47 PM, 3/17/2019] +55 51 8208-8587: Já tenho bastante para começar a estudar
+[2:28 PM, 3/17/2019] +55 62 8168-5163: É isso mesmo
+[2:35 PM, 3/17/2019] +55 11 98571-7180: Galera desculpa as vezes se sou um  pouco ranzinza falando kkkk ... Mas é que eu tenho uma visão um.pouco diferente da coisa de acordo com as  formações que faço e fiz durante esse tempo q estou estudando Data Science ... Pra mim Python, R, Scala, Pandas e afins são ferramentas ... Vc pode ser muito bom em qualquer um deles, mas se não souber ajustar uma curva normal usando log por exemplo não adianta nada ... É preciso saber estatística sim e acho q isso é muito importante ... Rodar modelos de Ml por rodar pode trazer resultados ineficientes ... E quando seu chefe aceitar sua opinião e transformar em negócio baseado no que vc mostrou e não der certo, vc será o primeiro lembrado pra cortarem o pescoço ... Basicamente a metodologia de pesquisa, mineração de dados precisam ter papel principal nesse meio ... Desculpem o desabafo ...
+[3:10 PM, 3/17/2019] +55 62 8168-5163: Não foi desabafo
+[3:10 PM, 3/17/2019] +55 62 8168-5163: É por aí mesmo
+[3:10 PM, 3/17/2019] +55 62 8168-5163: Só não esqueçam cálculo
+[3:11 PM, 3/17/2019] +55 62 8168-5163: Na hora de trabalhar com aprendizagem profunda
+[3:23 PM, 3/17/2019] +55 21 99811-0925: Concordo totalmente com você, sou da estatística e em uma modelagem é fundamental a interpretação do modelo e o insight principal gerado por ele.
+[3:35 PM, 3/17/2019] +55 11 98571-7180: 👍🏻👍🏻👍🏻
+[3:48 PM, 3/17/2019] +55 13 99765-0127: São pontos de vista diferentes. Temos que lembrar que pessoas que não é tão tecnicas vão olhar do ponto de vista de modelagem e a galera que é mais técnica vai pensar mais em programação. O rapaz se declarou tecnico e eu como sou tecnico dei resposta como programador. Mas é ÓBIVIO que precisamos saber fazer os ajuste, a galera aqui defende que não precisa ser progamador, eu já defendo que é bom saber os dois, pra falar a verdade se eu pudesse mudar alguma coisa na educação brasileira, eu colocaria materias de algoritmo e programção desde o ensino fundamental.
+Quem tem apenas um não é descartado totalmente, mas quem tem os dois terá um grande diferencial.
+[3:54 PM, 3/17/2019] +55 11 98571-7180: Sim, eu falo na questão de sanar os Gaps tbm ... Pq vc sempre terá pontos a melhorar, mas eu particularmente me sinto mal em fazer análises sem ter noção estatística por exemplo ... Prefiro entender o que acontece ... Mas concordo em alguns pontos contigo ...
+[3:58 PM, 3/17/2019] +55 35 8867-3048: Pessoal predição de valores  de ações usando técnicas de Deep Learning realmente é possível ?
+[4:06 PM, 3/17/2019] +55 62 8168-5163: Digamos que existe um caminho
+[4:08 PM, 3/17/2019] +55 62 8168-5163: Em termos de família de algoritmos... pense em séries temporais
+[4:08 PM, 3/17/2019] +55 62 8168-5163: Falando de séries temporais em Deep Learning... redes recorrentes. LSTM por exemplo
+[4:09 PM, 3/17/2019] +55 62 8168-5163: em termos de dados... os dados da bolsa ao logo dos anos. O máximo que puder
+[4:09 PM, 3/17/2019] +55 62 8168-5163: mas eu adicionaria um componente "termômetro" ao projeto
+[4:10 PM, 3/17/2019] +55 62 8168-5163: análise de postagens de site especializados e de postagens em redes sociais
+[4:12 PM, 3/17/2019] +55 62 8168-5163: Participei da banca do @Rogério Rodrigues de pós-graduação, onde ele usou autoML para prever se determinada ação iria subir ou desce. Veja que isso é uma tarefa de classificação. Prever o valor é uma tarefa de regressão.
+[4:12 PM, 3/17/2019] +55 62 8168-5163: *descer
+[4:13 PM, 3/17/2019] +55 62 8168-5163: nesse caso análise de sentimento seria um exemplo... etc
+[4:14 PM, 3/17/2019] +55 62 8168-5163: para esse tipo de análise de texto veja as redes Bert
+[4:15 PM, 3/17/2019] +55 62 8168-5163: https://medium.com/syncedreview/best-nlp-model-ever-google-bert-sets-new-standards-in-11-language-tasks-4a2a189bc155
+[4:17 PM, 3/17/2019] +55 35 8867-3048: Os resultados do @Rogério Rodrigues  foram interessantes, digo a técnica que ele utilizou é viável de ser aplicada em uma conta real ?
+[4:18 PM, 3/17/2019] +55 62 8168-5163: Tem que validar
+[4:18 PM, 3/17/2019] +55 35 8867-3048: Vou dar uma olhada muito obrigado!
+[4:18 PM, 3/17/2019] +55 62 8168-5163: acho que ele está nesse processo
+[5:51 PM, 3/17/2019] +55 21 99464-1431: Galera. BIG DATA DAY em SP
+[5:52 PM, 3/17/2019] +55 21 99464-1431: Dias 02, 03, 04, 05 e 06 de MAIO
+[5:53 PM, 3/17/2019] +55 21 99464-1431: http://www.bigdatabrasilday.com.br
+[5:53 PM, 3/17/2019] +55 21 99464-1431: Cursos e conferência
+[5:53 PM, 3/17/2019] +55 21 99464-1431: Confiram. Meu amigo Eduardo Gaspar consegue cupom de desconto para quem se interessar
+[5:54 PM, 3/17/2019] +55 21 99464-1431: Ele sera um dos palestrantes sobre Analytics
+[6:46 PM, 3/17/2019] +55 62 8168-5163: Big Data Days
+[6:46 PM, 3/17/2019] +55 62 8168-5163: 😂😂😂😂😂😂
+[6:46 PM, 3/17/2019] +55 62 8168-5163: Que show cara...
+[6:46 PM, 3/17/2019] +55 62 8168-5163: Se pudesse eu iria
+[6:46 PM, 3/17/2019] +55 21 99464-1431: Bora pessoal!?
+[6:47 PM, 3/17/2019] +55 21 99464-1431: Opa... 🥺
+[6:47 PM, 3/17/2019] +55 21 99464-1431: Vou sair do RJ
+[6:47 PM, 3/17/2019] +55 21 99464-1431: Nao sou de SP, no aite tem infos de hospedagem e tudo! 😂😂😂
+[6:48 PM, 3/17/2019] +55 21 99464-1431: *site
+[6:48 PM, 3/17/2019] +55 62 8168-5163: Pois é aqui no IFG até que tem verba para eventos... mas nesses dias pra mim não dá
+[8:29 PM, 3/17/2019] +55 12 98124-3645: O curso de machine learning é em python
+[8:30 PM, 3/17/2019] +55 12 98124-3645: Sabe informar @Juliano Mendes
+[8:42 PM, 3/17/2019] +55 12 98124-3645: Os cursos são só expositivo
+[9:58 PM, 3/17/2019] +55 21 99464-1431: 👍🏽
+[10:08 PM, 3/17/2019] +55 27 99754-2161: Poooxaaa, é obrigatório pagar o pacote por todos os dias? Se der só posso no fds
+[10:13 PM, 3/17/2019] +55 86 9420-1843: Alguém já fez algum algoritmo Solving maze?
+[7:59 AM, 3/18/2019] +55 11 95081-8325: @Alan Bruno na parte de matemática tenho visto também o pessoal recomendar álgebra linear, integrais e derivadas mas não consigo visualizar isso na aplicação de ML
+[8:02 AM, 3/18/2019] +55 11 98571-7180: Então, acho q o Sandeco tem mais propriedade que eu para falar sobre isso kkkk ... Eu sou Engenheiro Civil, então essa abstração das derivadas fica mais natural pra mim ... De repente para entender uma curva com variavel discreta ou contínua vc precisa usar para entender a área de confiança do seu teste de hipótese ...
+[8:03 AM, 3/18/2019] +55 11 98571-7180: Mas no chão de fábrica acredito q eu ainda não tenha o conhecimento necessário para te falar ...
+[8:36 AM, 3/18/2019] +55 32 9815-6420: será se tem outliers?
+[8:39 AM, 3/18/2019] +55 79 9979-3132: 😂
+[9:06 AM, 3/18/2019] +55 62 8130-6114: Kkkk
+[9:31 AM, 3/18/2019] +55 12 98124-3645: Kkkk
+[9:31 AM, 3/18/2019] +55 12 98124-3645: Só um pouquinho
+[9:31 AM, 3/18/2019] +55 11 98571-7180: Nem tem kkk
+[9:32 AM, 3/18/2019] +55 11 98571-7180: Isso é no Power BI?
+[10:16 AM, 3/18/2019] +55 62 8168-5163: Oi Bruno... da uma olhada nesses vídeos aqui que vc vai ver a derivadas em ação
+[10:17 AM, 3/18/2019] +55 62 8168-5163: https://youtu.be/YbAQq3k1l3U
+[10:18 AM, 3/18/2019] +55 62 8168-5163: https://youtu.be/0u9-ffv20rI
+[10:18 AM, 3/18/2019] +55 32 9815-6420: Fiz no R
+[10:32 AM, 3/18/2019] +55 11 98571-7180: Que legal ...
+[11:06 AM, 3/18/2019] +55 11 95081-8325: Valeu mano
+[1:09 PM, 3/18/2019] +55 24 98114-4683: 1) Desenvolvimento Web com PHP e Banco de Dados MySQL: https://www.udemy.com/php-mysql-x/?couponCode=PRESENTEPHD
+2) CodeIgniter: Criando Websites Profissionais com PHP: https://www.udemy.com/codeigniter-php/?couponCode=PRESENTEPHD
+3) Introdução à Programação para Bioinformática com Python: https://www.udemy.com/python_para_bioinformatica/?couponCode=PRESENTE_PHD
+4) Banco de Dados MySQL: https://www.udemy.com/aprenda_mysql_em30minutos/?couponCode=PRESENTE_PHD
+5) Web Design: Construa Sites com PHP, HTML, CSS e JavaScript: https://www.udemy.com/programacao-web-para-divulgacao-cientifica/?couponCode=PRESENTE_PHD
+6) Python & MySQL: https://www.udemy.com/python-mysql/?couponCode=PRESENTE_PHD
+
+Cursos de graça na Udemy até o fim do dia. Espalha pro pessoal caso alguém se interesse.
+[1:28 PM, 3/18/2019] +55 34 8411-9268: Ai sim!!!
+[1:30 PM, 3/18/2019] +55 74 9909-9378: Show 👏🏻👏🏻
+[1:31 PM, 3/18/2019] +55 35 8867-3048: Codeigniter vale muito a pena.
+[2:07 PM, 3/18/2019] +55 81 9508-6045: Que google encha sua vida com bitcoins. 🙏🏼
+[2:08 PM, 3/18/2019] +55 14 98151-0103: 👍
+[2:17 PM, 3/18/2019] +55 13 99765-0127: 😂😂😂
+[2:25 PM, 3/18/2019] +55 51 8507-8018: 😃
+[3:49 PM, 3/18/2019] +55 89 9971-1420: Gente, alguem aqui entende de conexao RMI em Java ?
+[7:44 PM, 3/18/2019] +55 27 99865-3234: Cursos de graça na Udemy até o fim do dia
+
+1) Desenvolvimento Web com PHP e Banco de Dados MySQL: https://www.udemy.com/php-mysql-x/?couponCode=PRESENTEPHD&fbclid=IwAR0hvQFhvPMbbPWIWa36Uy1ONcr2ZVwA2ABBMEEBovftygqjmAUzcgWKR68
+
+2) CodeIgniter: Criando Websites Profissionais com PHP: https://www.udemy.com/codeigniter-php/?couponCode=PRESENTEPHD&fbclid=IwAR1ax71JLti36XrJAjsWG-oaMXPmXCWgWXQJ6D0wte_FcCy-uIyH5lORaPo
+
+3) Introdução à Programação para Bioinformática com Python: https://www.udemy.com/python_para_bioinformatica/?couponCode=PRESENTE_PHD&fbclid=IwAR1k5EDMWD7gRcIi9NDy2W50NtYqFh7VFXKmnX-5vhrak4CJRbQVRbv_h3w
+
+4) Banco de Dados MySQL: https://www.udemy.com/aprenda_mysql_em30minutos/?couponCode=PRESENTE_PHD&fbclid=IwAR0yklCPYpTyPjDqU6x4JK_3hsbtAufnAD4AVXMwXcZMw-LSSIe6JgB3uEc
+
+5) Web Design: Construa Sites com PHP, HTML, CSS e JavaScript: https://www.udemy.com/programacao-web-para-divulgacao-cientifica/?couponCode=PRESENTE_PHD&fbclid=IwAR1UFeeVKEzfaXwZxkfPmTxnpFP_98h5ujBt6w88Ypu9U2_deTsF_7oPvDo
+
+6) Python & MySQL: https://www.udemy.com/python-mysql/?couponCode=PRESENTE_PHD&fbclid=IwAR09MBs4HitnHStAxsfwZBS0_5EREJkV2aCbkhQLppjBF4dW_vREbURVj0g
